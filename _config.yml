@@ -1,7 +1,7 @@
-title: Grotjahn Lab
-description: Webpage for the Grotjahn lab at scripps.
+title: Li Lab
+description: Webpage for the Li Lab.
 
-url: https://GrotjahnLab.github.io
+url: https://haixingli.github.io
 permalink: pretty
 plugins:
   - jekyll-octicons
