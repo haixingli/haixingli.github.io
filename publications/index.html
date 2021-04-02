@@ -1,46 +1,58 @@
 ---
 title: Publications
-layout: parallax
+layout: default
 banner: /static/img/banners/SafetyIllustrations.png
 group: publications
 ---
 
-<!-- <h1>Publications</h1>
- --><div class="container-fluid">
-{% assign publications = site.data.publications %}
-{% for publication in publications %}
-<!-- <hr> -->
-<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
-<div style="font-size: 120% !important;">{{ publication.citation | markdownify }}</div>
-	
-<ul class="col-sm-6">
+<div class="container px-2 max-width: 100%" style="text-align:left;">
+    <img class="img-fluid mx-auto d-block" src="/static/img/publications_eric_hopkins_thoroghfare_islands_with_roses.png" alt="Thoroghfare Islands with Roses by Eric Hopkins" style="paddig-bottom:0.5em;"/>
+	Thoroghfare Islands with Roses (Detail) by <a href="http://www.erichopkins.com/" > Eric Hopkins </a>
+</div>
+<br>
+<h1>Publications</h1>
+
+<div class="container-fluid">
+
+{% for publication in site.data.publications %}
+<hr>
+<div class="row" style="padding-top: 0px; margin-top: -10px;  margin-bottom: -10px" id="{{publication.pmid}}">
+<div style="font-size: 108% !important;">{{ publication.citation | markdownify }}</div>
+<div class="row" style="padding-top: - 5px; margin-top: -20px;">
+<!--			<strong> &emsp; &emsp; &emsp;Access the paper: &emsp; </strong> -->
 
 			<!--Biorxiv - optional -->
 			{% if publication.biorxiv %}
-			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a></li>
-			{% endif %}
-
-			<!--Chemrxiv - optional -->
-			{% if publication.chemrxiv %}
-			<li>ChemRxiv Preprint: <a href=" https://doi.org/10.26434/chemrxiv.{{publication.chemrxiv}}" alt = "chemrxiv preprint link: {{publication.chemrxiv}}"> {{publication.chemrxiv}}</a></li>
+			<li>Biorxiv Preprint: <a href="http://dx.doi.org/10.1101/{{publication.biorxiv}}" alt = "biorxiv preprint link: {{publication.biorxiv}}"> {{publication.biorxiv | split: "." | last }}</a> &emsp; </li>
 			{% endif %}
 
 			<!-- PDF -->
-		 	<li><a href="{{publication.pdf}}" alt = "PDF"> Manuscript</a></li>
-		
-			<!-- SI -- optional -->
-			{% if publication.si %}
-			<li><a href="{{si.pdf}}" alt = "SI"> SI</a></li>
+			<li><a href="{{publication.pdf}}" alt = "PDF"> Manuscript</a> &emsp; </li>
+	
+
+			<!--SI - optional -->
+			{% if publication.SI %}
+			<li><a href="{{publication.si}}" alt = "SI"> SI</a> &emsp; </li>
+			{% endif %}
+	
+			<!-- Datasets - optional -->
+			{% if publication.data %}
+			<li>Online Dataset{% if publication.data.size > 1 %}s{% endif %}:
+				{% if publication.data.size > 1 %}
+				<ul>
+					{% for dataset in publication.data %}
+					<li><a href="http://dx.doi.org/{{dataset}}" alt = "sbgrid data repository">doi:{{dataset}}</a></li>
+					{% endfor %}
+				</ul>
+				{% else %}
+				<a href="http://dx.doi.org/{{publication.data}}" alt = "sbgrid data repository">doi:{{publication.data}}</a>
+				{% endif %}
+			</li>
 			{% endif %}
 
-			<!--Extra junk-->
-			{% for link in publication.links %}
-			<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
-			{% endfor %}
-	</ul>
-</div> <br>
-{% if forloop.last == false %}
-<hr>
-{% endif %}
+
+
+      </div>
+</div>
 {% endfor %}
 </div>
