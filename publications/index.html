@@ -1,7 +1,7 @@
 ---
-title: Publications from the Grotjahn Lab
+title: Publications from the Li Lab
 layout: parallax
-banner: /static/img/banners/Image_pastelsunset_002.png
+banner: /static/img/banners/SafetyIllustrations.png
 group: publications
 ---
 
@@ -12,14 +12,16 @@ group: publications
 <!-- <hr> -->
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.pmid}}">
 <div style="font-size: 120% !important;">{{ publication.citation | markdownify }}</div>
-	<div class="col-sm-6">
+<!--	<div class="col-sm-6">
 		<img class = "img-responsive pubimg" src = "{{publication.image}}" alt = "Key Figure" style="max-height: 200px;">
-	</div>
+	</div> -->
 	<ul class="col-sm-6">
-			<strong>Access the paper</strong>
-			<!--PMID-->
+<!--			<strong>Access the paper</strong> -->
+			<!--PMID-- optional -->
+			{% if publication.pmid %}
 			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
-
+			{% endif %}
+		
 			<!--PMCID - optional -->
 			{% if publication.pmcid %}
 			<li>PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{publication.pmcid}}" alt = "pubmed central link: {{publication.pmcid}}"> {{publication.pmcid}}</a></li>
@@ -36,7 +38,12 @@ group: publications
 			{% endif %}
 
 			<!-- PDF -->
-			<li><a href="{{publication.pdf}}" alt = "PDF"> Full Text</a></li>
+			<li><a href="{{publication.pdf}}" alt = "PDF"> Manuscript</a></li>
+		
+			<!-- SI -- optional -->
+			{% if publication.si %}
+			<li><a href="{{si.pdf}}" alt = "SI"> SI</a></li>
+			{% endif %}
 
 			<!-- Datasets - optional -->
 			{% if publication.data %}
@@ -90,7 +97,7 @@ group: publications
 			{% endif %}
 
 			<!--Extra junk-->
-			<strong>Additional Links</strong>
+	<!--		<strong>Additional Links</strong> -->
 			{% for link in publication.links %}
 			<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
 			{% endfor %}
