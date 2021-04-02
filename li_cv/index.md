@@ -1,42 +1,41 @@
 ---
-title: Danielle Grotjahn, PhD
+title: Haixing Li, PhD
 group: members
 layout: default
 max_width: 800px
 ---
 
-# Danielle Grotjahn, PhD
+# Haixing Li, PhD
 
 ### EDUCATION
 <div class="row" style="max-width: {{page.max_width}};">
-<div class="col-sm col-sm-2"><strong>2018</strong></div><div class="col col-sm-10"><p>Ph.D. in Biophysics, Scripps Research<br>
-	Thesis: <em>Mechamisms of cytoplasmic dynein regulation revealed by cryo-electron tomography</em><br>
-	Advisor: Dr. Gabriel Lander</p></div>
-<div class="col-sm col-sm-2"><strong>2010</strong></div><div class="col col-sm-10"><p>B.S. with Honors in Biology, University of Wisconsin-Madison<br>
-		Undergraduate Thesis: <em>Examining cell shape as the mechanism for furrow positioning in the early zebrafish (Danio rerio) embryo</em><br>  
-		Advisor: Dr. Francisco Pelegri</p></div>
+<div class="col-sm col-sm-2"><strong>2018</strong></div><div class="col col-sm-10"><p>Ph.D. in Applied Physics, Columbia University<br>
+	Thesis: <em>Electronic Properties of Molecular Silicon</em><br>
+	Advisor: Dr. Latha Venkataraman</p></div>
+<div class="col-sm col-sm-2"><strong>2010</strong></div><div class="col col-sm-10"><p>B.S. in Physics, University of Science and Technology of China<br>
+		Advisor: Dr. Xianhui Chen</p></div>
 </div>
 
 
 ### PROFESSIONAL EXPERIENCE
 <div class="row" style="max-width: {{page.max_width}}">
-<div class="col-sm col-sm-2"><strong>2019-Present</strong></div><div class="col col-sm-10"><p>Scripps Fellow, Department of Integrative Structural and Computational Biology (ISCB), Scripps Research</p></div>
-<div class="col-sm col-sm-2"><strong>2018-2019</strong></div><div class="col col-sm-10"><p>Postdoctoral Researcher, Laboratory of Dr. Grant Jensen, Department of Biology, California Institute of Technology (Caltech)</p></div>
-<div class="col-sm col-sm-2"><strong>2012-2013</strong></div><div class="col col-sm-10"><p>Research Intern, Laboratory of Dr. Yevgenya Grinblat, Department of neuroscience, University of Wisconsin-Madison</p></div>
-<div class="col-sm col-sm-2"><strong>2010- 2012</strong></div><div class="col col-sm-10"><p>Associate Research Specialist, Laboratory of Dr. Francisco Pelegri, Department of Genetics and Medical Genetics, University of Wisconsin-Madison</p></div>
-</div>
+<div class="col-sm col-sm-2"><strong>2017-Present</strong></div><div class="col col-sm-10"><p>Postdoctoral Researcher, Laboratory of Dr. Ruben Gonzalez, Department of Chemistry, Columbia University</p></div>
+
 
 
 ### FELLOWSHIPS AND AWARDS
 <div class="row" style="max-width: {{page.max_width}}">
-<div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Damon Runyon-Rachleff Innovation Award</p></div>
-<div class="col-sm col-sm-2"><strong>2018</strong></div><div class="col col-sm-10"><p>Harold M. Weintraub Graduate Student Award</p></div>
-<div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Achievement Rewards for College Scientists (ARCS)/ROCHE Scholarship</p></div>
-<div class="col-sm col-sm-2"><strong>2015-2018</strong></div><div class="col col-sm-10"><p>Achievement Rewards for College Scientists (ARCS) Fellowship</p></div>
-<div class="col-sm col-sm-2"><strong>2014-2017</strong></div><div class="col col-sm-10"><p>National Science Foundation (NSF) Graduate Research Fellowship (GRFP)</p></div>
-<div class="col-sm col-sm-2"><strong>2013</strong></div><div class="col col-sm-10"><p>Scripps Research Dean’s Fellowship</p></div>
-<div class="col-sm col-sm-2"><strong>2009</strong></div><div class="col col-sm-10"><p>The Cargill Benevenga Undergraduate Research Stipend Award</p></div>
-<div class="col-sm col-sm-2"><strong>2007-2010</strong></div><div class="col col-sm-10"><p>College of Agricultural and Life Sciences Undergraduate Scholarship Award</p></div>
+<div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Virtual Travel Award, The Biophysical Society</p></div>
+<div class="col-sm col-sm-2"><strong>2019</strong></div><div class="col col-sm-10"><p>Charles H. Revson Senior Postdoctoral Fellowship in Biomedical Science</p></div>
+<div class="col-sm col-sm-2"><strong>2019</strong></div><div class="col col-sm-10"><p>Travel Grant, NextProf Science Workshop, University of Michigan</p></div>
+<div class="col-sm col-sm-2"><strong>2017</strong></div><div class="col col-sm-10"><p>Travel Grant, Future Faculty Workshop, Case Western Reserve University</p></div>
+<div class="col-sm col-sm-2"><strong>2017</strong></div><div class="col col-sm-10"><p>Chinese Government Award for Outstanding Students Abroad</p></div>
+<div class="col-sm col-sm-2"><strong>2017</strong></div><div class="col col-sm-10"><p>Ovshinsky Student Travel Award, American Physical Society</p></div>
+<div class="col-sm col-sm-2"><strong>2016-2017</strong></div><div class="col col-sm-10"><p>AColumbia Teaching Observation Fellowship</p></div>
+<div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Student Travel Grant, Columbia Graduate Student Advisory Council</p></div>
+<div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Professional Development Scholarship, Columbia Engineering Graduate Student Council</p></div>
+<div class="col-sm col-sm-2"><strong>2012</strong></div><div class="col col-sm-10"><p>National University Student Innovation Program Grant, Ministry of Education of China</p></div>
+<div class="col-sm col-sm-2"><strong>2008-2011</strong></div><div class="col col-sm-10"><p>Outstanding Student Scholarships, University of Science and Technology of China</p></div>
 </div>
 	
 	
