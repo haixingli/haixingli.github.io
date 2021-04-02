@@ -1,59 +1,7 @@
-- citation: 'Gardner A, Ludovic A, **Fuentes D**, Maritan M, **Barad BA**, **Medina, M**, Olson AJ, **Grotjahn DA**, Goodsell DS. CellPAINT: Turnkey illustration of molecular cell biology. *Front. Bioinform* 2021'
-  date: 212903
-  image: '/static/img/publications/CellPAINT_2021.jpeg'
+- citation: 'H. Gampery, H. Liy, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
+Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift-Suppressor tRNA, Nature Communications,
+12(1), 1-18 (2021).'
+  date: 20210104
   pdf: '/static/pdf/2021_CellPaint.pdf'
-  pmid: 30668455
-  pmcid: PMC6456043
-  zenodo: 
-    - code: '4606923'
-      description: 'Tomogram used for CellPAINT hypothesis generation'
-  links:
-    - name: "Molecular Graphics Laboratory"
-      url: 'https://ccsb.scripps.edu/goodsell/'
+  links: 'https://www.nature.com/articles/s41467-020-20373-z'
 
-- citation: 'Basanta B, Chowdhury S, Lander GC, **Grotjahn DA**. A guided approach for subtomogram averaging of challenging macromolecular assemblies. *JSBx* 2020'
-  date: 201811
-  image: '/static/img/publications/Grotjahn_2020_STAguided.jpg'
-  pmid: 33319208
-  pmcid: PMC7724198  
-  biorxiv: 2020.02.01.930297
-  pdf: '/static/pdf/GuidedSTA_JSBx.pdf'
-  links:
-    - name: "guided_tomo_align scripts"
-      url: 'https://github.com/GrotjahnLab/guided_tomo_align/'
-    - name: "Lander Lab"
-      url: 'http://www.lander-lab.com/'
-
-- citation: '**Grotjahn DA** and Lander GC. Setting the dynein motor in motion: New insights from electron tomography. *JBC* 2019.'
-  date: 201909
-  image: '/static/img/publications/Grotjahn_review_2019.png'
-  pmid: 31285262
-  pmcid: PMC6737236 
-  pdf: '/static/pdf/Grotjahn_Review_2019.pdf'
-  links:
-    - name: "Lander Lab"
-      url: 'http://www.lander-lab.com/'
-
-
-- citation: '**Grotjahn DA**, Chowdhury S, Xu Y, McKenney RJ, Schroer TA, Lander GC. Cryo-electron tomography reveals that dynactin recruits a team of dyneins for processive motility. *NSMB* 2018.'
-  date: 201803
-  image: '/static/img/publications/Grotjahn_2018_trimmed.gif'
-  pmid: 29416113
-  pmcid: PMC5969528
-  biorxiv: 182576
-  pdf: '/static/pdf/Grotjahn_DyneinDynactin.pdf'
-  emdbs:
-    - 7000
-    - 7001
-  links:
-    - name: "Lander Lab"
-      url: 'http://www.lander-lab.com/'
-    - name: "F1000Prime"
-      url: 'https://f1000.com/prime/731819271'
-
-- citation: 'Ge X, **Grotjahn DA**, Welch E, Lyman-Gingerich J, Holguin C, Dimitrova E, Abrams EW, Gupta T, Marlow FL, Yabe T, Adler A, Mullins MC, Pelegri F. *PLOS Genetics* 2014.'
-  date: 201406
-  image: '/static/img/publications/Grotjahn_Pelegri_2014.png'
-  pmid: 24967891
-  pmcid: PMC4072529 
-  pdf: '/static/pdf/Grotjahn_Pelegri_2014.PDF'
