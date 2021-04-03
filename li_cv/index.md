@@ -19,7 +19,9 @@ max_width: 800px
 
 ### PROFESSIONAL EXPERIENCE
 <div class="row" style="max-width: {{page.max_width}}">
-<div class="col-sm col-sm-2"><strong>2017-Present</strong></div><div class="col col-sm-10"><p>Postdoctoral Researcher, Laboratory of Dr. Ruben Gonzalez, Department of Chemistry, Columbia University</p></div>
+<div class="col-sm col-sm-2"><strong>2017-Present</strong></div><div class="col col-sm-10"><p>Postdoctoral Researcher, Department of Chemistry, Columbia University<br>
+	Advisor: Dr. Ruben L. Gonzalez Jr.</p></div>
+	
 </div>
 
 
