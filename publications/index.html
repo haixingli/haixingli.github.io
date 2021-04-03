@@ -16,8 +16,9 @@ group: publications
 		<img class = "img-responsive pubimg" src = "{{publication.image}}" alt = "Key Figure" style="max-height: 200px;">
 	</div>
 	<ul class="col-sm-6">
-			<strong>Access the paper</strong>
-			<!--PMID--- optional>
+			<!--<strong>Access the paper</strong> -->
+		
+			<!--PMID--- optional -->
 			{% if publication.pmid %}
 			<li>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{publication.pmid}}" alt = "pubmed link: {{publication.pmid}}"> {{publication.pmid}}</a></li>
 			{% endif %}
@@ -97,7 +98,7 @@ group: publications
 			{% endif %}
 
 			<!--Extra junk-->
-			<strong>Additional Links</strong>
+			<!-- <strong>Additional Links</strong> -->
 			{% for link in publication.links %}
 			<li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}}</a></li>
 			{% endfor %}
