@@ -2,7 +2,7 @@
 title: Li Lab
 layout: parallax_lead
 group: home
-banner: static/img/banners/SafetyIllustration.png
+banner: static/img/banners/SafetyIllustrationA.pdf
 ---
 
 
