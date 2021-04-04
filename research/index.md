@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: parallax_lead
-banner: /static/img/banners/SafetyIllustration.png
+banner: /static/img/banners/SafetyIllustrationA.pdf
 group: research
 ---
 
