@@ -1,4 +1,4 @@
-- citation: '18. H. Gamper$\dagger$, H. Li$\dagger$, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
+- citation: 'H. Gamper†, H. Li†, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
 Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift-Suppressor tRNA, Nature Communications,
 12(1), 1-18 (2021).'
   pdf: '/static/pdf/2021-HowardLi-NatComm.pdf'
@@ -6,7 +6,7 @@ Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift
     - name: "Link"
       url: 'https://www.nature.com/articles/s41467-020-20373-z'
       
-- citation: '16. M. S. Inkpen, Z.-F. Liu, H. Li, L. Campos, J. B. Neaton, L. Venkataraman, Non-chemisorbed gold-sulfur binding prevails in
+- citation: 'M. S. Inkpen, Z.-F. Liu, H. Li, L. Campos, J. B. Neaton, L. Venkataraman, Non-chemisorbed gold-sulfur binding prevails in
 self-assembled monolayers, Nature Chemistry, 11 (4), 351-358 (2019).'
   pdf: '/static/pdf/2019-Inkpen-NatChem.pdf'
   links:
@@ -15,77 +15,68 @@ self-assembled monolayers, Nature Chemistry, 11 (4), 351-358 (2019).'
     - name: "Featured in Nature Review Materials as a Research Highlight."
       url: 'https://www.nature.com/articles/s41578-019-0094-3.epdf?shared_access_token=GnL0zAOInhEq1Pv2Nxwd0NRgN0jAjWel9jnR3ZoTv0PYxnTh2UgWvSZ7bATuqLr2qxJGZsCl2AA-TfJxSQz8ZTU1fznaOa0F61r6BkV8OnpjEenzbcpVh6RQG7O9l4lpPX5ruklpsD-KMVLCcTcNPg%3D%3D'
 
-- citation: '15. H. Liy, M. Garnery, Z. Shangguany, Y. Chen, Q. Zheng, T. Su, M. Neupane, T. Liu, M. Steigerwald, F. Ng, C. Nuckolls, S.
+- citation: 'H. Li†, M. Garner†, Z. Shangguan†, Y. Chen, Q. Zheng, T. Su, M. Neupane, T. Liu, M. Steigerwald, F. Ng, C. Nuckolls, S.
 Xiao, G. Solomon, L. Venkataraman, Large Variations in Single Molecule Conductance of Cyclic and Bicyclic Silanes, JACS,
 140 (44), 15080-15088 (2018).'
   pdf: '/static/pdf/2018-Li-JACS.pdf'
 
-- citation: '14. M. H. Garnery, H. Liy, Y. ChenyT. A. Su, Z. Shangguan, D. W. Paley, T. Liu, F. Ng, H. Li, S. Xiao, C. Nuckolls, L. Venkataraman,
+- citation: 'M. H. Garner†, H. Li†, Y. Chen†. A. Su, Z. Shangguan, D. W. Paley, T. Liu, F. Ng, H. Li, S. Xiao, C. Nuckolls, L. Venkataraman,
 G. C. Solomon, Comprehensive Suppression of Single-Molecule Conductance using Destructive Sigma-interference, Nature,
 558, 415-419 (2018).'
   pdf: '/static/pdf/2018-GarnerLi-Nature.pdf'
-“Quantum Interference May Be Key to Smaller Insulators” by Columbia Engineering; “New Insulator is promising for smaller
-computers” by Xinhuanet.com; “Danes found the world’s most power-insulating molecule” by abc nyheter; “Single molecular
-insulator pushes boundaries of current state of the art” by EurekAlert, ECN Mag, Nanotechnology Now and Phys.org;
-“Breakthrough could jumpstart further miniaturization of transistors” by nanowerk.
 
-- citation: '13. H. Liy, T. A. Suy, M. Camarasa-Gómezy, D. Hernangómez-Pérez, S. E. Henn, V. Pokorný, R. Korytár, M. L. Steigerwald,
+
+- citation: 'H. Li†, T. A. Su†, M. Camarasa-Gómez†, D. Hernangómez-Pérez, S. E. Henn, V. Pokorný, R. Korytár, M. L. Steigerwald,
 C. Nuckolls, F. Evers, L. Venkataraman, Silver Makes Better Electrical Contacts to Thiol Terminated Silanes than Gold,
 Angewandte Chemie, 56, (45), 14145-14148 (2017).'
   pdf: '/static/pdf/2017-Li-Angewandte.pdf'
 
-- citation: '12. H. Liy, M. Garnery, T. Suy, A. Jensen, M. Inkpen, M.L. Steigerwald, L. Venkataraman, G. Solomon, C. Nuckolls, Extreme
+- citation: 'H. Li†, M. Garner†, T. Su†, A. Jensen, M. Inkpen, M.L. Steigerwald, L. Venkataraman, G. Solomon, C. Nuckolls, Extreme
 Conductance Suppression in Molecular Siloxanes, JACS, 139 (30), 10212-10215 (2017).'
   pdf: '/static/pdf/2017-Li-JACS.pdf'
-“1D nanowire is world’s worst conductor” by Chemistry World; “Siloxane nanowires are world’s worst conductor” by Compound
-Interest; “New Nanowire Is World’s Worst Electrical Conductor” by Scientific American.
 
-- citation: '11. T. Su, H. Li, R. Klausen, N. Kim, M. Neupane, J. Leighton, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Silane and
+- citation: 'T. Su, H. Li, R. Klausen, N. Kim, M. Neupane, J. Leighton, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Silane and
 Germane Molecular Electronics, Accounts of Chemical Research, 50 (4), 1088-1095 (2017).'
   pdf: '/static/pdf/2017-Su-Accounts.pdf'
 
-- citation: '10. H. Li, N. Kim, T. Su, M. L. Steigerwald, C. Nuckolls, P. Darancet, J. Leighton, L. Venkataraman, Mechanism for Si-Si Bond
+- citation: 'H. Li, N. Kim, T. Su, M. L. Steigerwald, C. Nuckolls, P. Darancet, J. Leighton, L. Venkataraman, Mechanism for Si-Si Bond
 Rupture in Single Molecule Junctions, JACS, 138 (49), 16159-16164 (2016).'
   pdf: '/static/pdf/2016-Li-JACS.pdf'
-Selected as Front Cover and featured in Spotlight.
 
-- citation: '9. N. Kim, H. Li, L. Venkataraman, J. Leighton, High-Conductance Pathways in Ring-Strained Disilanes by Way of Direct
- -Si-Si to Au Coordination, JACS, 138 (36), 11505-11508 (2016).'
+- citation: 'N. Kim, H. Li, L. Venkataraman, J. Leighton, High-Conductance Pathways in Ring-Strained Disilanes by Way of Direct
+ sigma-Si-Si to Au Coordination, JACS, 138 (36), 11505-11508 (2016).'
   pdf: '/static/pdf/2016-Kim-JACS.pdf'
 
-- citation: '8. T. Suy, H. Liy, R. Klausen, J. R. Widawsky, A. Batra, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Tuning Conductance
+- citation: 'T. Su†, H. Li†, R. Klausen, J. R. Widawsky, A. Batra, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Tuning Conductance
 in pi-sigma-pi Single-Molecule Wires, JACS, 138 (24), 7791-7795 (2016).'
   pdf: '/static/pdf/2016-Su-JACS.pdf'
 
-- citation: '7. H. Liy, M. Garnery, Z. Shangguany, T. Su, M. Neupane, P. Li, A. Velian, M. L. Steigerwald, S. Xiao, C. Nuckolls, G. Solomon,
+- citation: 'H. Li†, M. Garner†, Z. Shangguan†, T. Su, M. Neupane, P. Li, A. Velian, M. L. Steigerwald, S. Xiao, C. Nuckolls, G. Solomon,
 L. Venkataraman, Conformations of Cyclopentasilane Stereoisomers Control Molecular Junction Conductance, Chemical
 Science, 7, 5657-5662 (2016)'
   pdf: '/static/pdf/2016-Li-ChemicalScience.pdf'
-Selected as Inside Back Cover
 
-- citation: '6. T. Suy, H. Liy, V. Zhang, M. Neupane, A. Batra, R. S. Klaussen, B. Kumar, M. L. Steigerwald, L. Venkataraman, C. Nuckolls,
+- citation: 'T. Su†, H. Li†, V. Zhang, M. Neupane, A. Batra, R. S. Klaussen, B. Kumar, M. L. Steigerwald, L. Venkataraman, C. Nuckolls,
 Single-Molecule Conductance in Atomically Precise Germanium Wires, JACS, 137 (38), 12400-12405 (2015).'
   pdf: '/static/pdf/2015-SuLi-JACS.pdf'
 
-- citation: '5. H. Li, T. Su, M. L. Steigerwald, C. Nuckolls, L. Venkataraman, Electric Field Breakdown in Single Molecule Junctions, JACS,
+- citation: 'H. Li, T. Su, M. L. Steigerwald, C. Nuckolls, L. Venkataraman, Electric Field Breakdown in Single Molecule Junctions, JACS,
 137 (15), 5028-5033 (2015).'
   pdf: '/static/pdf/2015-Li-JACS.pdf'
-Selected as Front Cover and featured in Spotlight
 
-- citation: '4. T. Su, H. Li, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Stereoelectronic Switching in Single-Molecule Junctions,
+- citation: 'T. Su, H. Li, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Stereoelectronic Switching in Single-Molecule Junctions,
 Nature Chemistry, 7, 215-220 (2015).'
-  pdf: '/static/pdf/2015-Su-NatChem.pdf'
-Featured in Nature Chemistry Editorial; “Study demonstrates an electronic switch based on stereoisomerism” by Phys.org.
+  pdf: '/static/pdf/2015-Su-NatureChem.pdf'
 
-- citation: '3. R. Klausen, J. Widawsky, T. Su, H. Li, M.L. Steigerwald, L. Venkataraman, C. Nuckolls, Evaluating Atomic Components in
+- citation: 'R. Klausen, J. Widawsky, T. Su, H. Li, M.L. Steigerwald, L. Venkataraman, C. Nuckolls, Evaluating Atomic Components in
 Fluorene Circuits, Chemical Science, 5, 1561-1564 (2014).'
   pdf: '/static/pdf/2014-Klausen-ChemSci.pdf'
 
-- citation: '2. W. Chen, H. Li, J. R. Widawsky, C. Appayee, L. Venkataraman, R. Breslow, Aromaticity Decreases Single-Molecule Junction
+- citation: 'W. Chen, H. Li, J. R. Widawsky, C. Appayee, L. Venkataraman, R. Breslow, Aromaticity Decreases Single-Molecule Junction
 Conductance, JACS, 136, 918-920 (2014).'
   pdf: '/static/pdf/2014-Chen-JACS.pdf'
 
-- citation: '1. T. Su, J. Widawsky, H. Li, R. Klausen, J. Leighton, M. Steigerwald, L. Venkataraman, C. Nuckolls, Silicon Ring Strain Creates
+- citation: 'T. Su, J. Widawsky, H. Li, R. Klausen, J. Leighton, M. Steigerwald, L. Venkataraman, C. Nuckolls, Silicon Ring Strain Creates
 High-Conductance Pathways in Single-Molecule Circuits, JACS, 135, 18331 (2013)'
   pdf: '/static/pdf/2013-Su-JACS.pdf'
 
