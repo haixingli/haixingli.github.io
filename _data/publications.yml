@@ -27,110 +27,128 @@ self-assembled monolayers, Nature Chemistry, 11 (4), 351-358 (2019).'
 Xiao, G. Solomon, L. Venkataraman, Large Variations in Single Molecule Conductance of Cyclic and Bicyclic Silanes, JACS,
 140 (44), 15080-15088 (2018).'
   pdf: '/static/pdf/2018-Li-JACS.pdf'
-  Links:
-      - name: "Link"
-        url: 'https://pubs.acs.org/doi/10.1021/jacs.8b10296'
+  links:
+    - name: "Link"
+      url: 'https://pubs.acs.org/doi/10.1021/jacs.8b10296'
 
 - citation: 'M. H. Garner†, H. Li†, Y. Chen†. A. Su, Z. Shangguan, D. W. Paley, T. Liu, F. Ng, H. Li, S. Xiao, C. Nuckolls, L. Venkataraman,
 G. C. Solomon, Comprehensive Suppression of Single-Molecule Conductance using Destructive σ-interference, Nature,
 558, 415-419 (2018).'
   pdf: '/static/pdf/2018-GarnerLi-Nature.pdf'
-  Links:
-        - name: "Link"
-          url: 'https://www.nature.com/articles/s41586-018-0197-9'
+  links:
+    - name: "Link"
+      url: 'https://www.nature.com/articles/s41586-018-0197-9'
+    - name: "Featured in "EurekAlert"
+      url: 'https://www.eurekalert.org/pub_releases/2018-06/cuso-smi060418.php'
+    - name: "Featured in Xinhua"
+      url: 'http://www.xinhuanet.com/english/2018-06/07/c_137235559.htm'
+    - name: "Featured in Phys.org"
+      url: 'https://phys.org/news/2018-06-molecular-insulator-boundaries-current-state.html'
+    - name: "Featured in Nanotechnology Now"
+      url: 'http://www.nanotech-now.com/news.cgi?story_id=55159'
+    - name: "Featured in Nanowerk"
+      url: 'https://www.nanowerk.com/nanotechnology-news/newsid=50374.php'
 
 
 - citation: 'H. Li†, T. A. Su†, M. Camarasa-Gómez†, D. Hernangómez-Pérez, S. E. Henn, V. Pokorný, R. Korytár, M. L. Steigerwald,
 C. Nuckolls, F. Evers, L. Venkataraman, Silver Makes Better Electrical Contacts to Thiol Terminated Silanes than Gold,
 Angewandte Chemie, 56, (45), 14145-14148 (2017).'
   pdf: '/static/pdf/2017-Li-Angewandte.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://onlinelibrary.wiley.com/doi/10.1002/anie.201708524/full'
+  links:
+    - name: "Link"
+      url: 'http://onlinelibrary.wiley.com/doi/10.1002/anie.201708524/full'
 
 - citation: 'H. Li†, M. Garner†, T. Su†, A. Jensen, M. Inkpen, M.L. Steigerwald, L. Venkataraman, G. Solomon, C. Nuckolls, Extreme
 Conductance Suppression in Molecular Siloxanes, JACS, 139 (30), 10212-10215 (2017).'
   pdf: '/static/pdf/2017-Li-JACS.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://pubs.acs.org/doi/10.1021/jacs.7b05599'
+  links:
+    - name: "Link"
+      url: 'http://pubs.acs.org/doi/10.1021/jacs.7b05599'
+    - name: "Featured in Scientific American"
+      url: 'https://www.scientificamerican.com/article/new-nanowire-is-worlds-worst-electrical-conductor1/'
+    - name: "Featured in Chemistry World, Royal Society of Chemistry"
+      url: 'https://www.chemistryworld.com/news/1d-nanowire-is-worlds-worst-conductor/3007774.article'
+    - name: "Featured in Compounds Interest"
+      url: 'https://www.compoundchem.com/2017/07/30/twic30072017/'
 
 - citation: 'T. Su, H. Li, R. Klausen, N. Kim, M. Neupane, J. Leighton, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Silane and
 Germane Molecular Electronics, Accounts of Chemical Research, 50 (4), 1088-1095 (2017).'
   pdf: '/static/pdf/2017-Su-Accounts.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://pubs.acs.org/doi/abs/10.1021/acs.accounts.7b00059'
+  links:
+    - name: "Link"
+      url: 'http://pubs.acs.org/doi/abs/10.1021/acs.accounts.7b00059'
 
 - citation: 'H. Li, N. Kim, T. Su, M. L. Steigerwald, C. Nuckolls, P. Darancet, J. Leighton, L. Venkataraman, Mechanism for Si-Si Bond
 Rupture in Single Molecule Junctions, JACS, 138 (49), 16159-16164 (2016).'
   pdf: '/static/pdf/2016-Li-JACS.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.6b10700'
+  links:
+    - name: "Link"
+      url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.6b10700'
 
 - citation: 'N. Kim, H. Li, L. Venkataraman, J. Leighton, High-Conductance Pathways in Ring-Strained Disilanes by Way of Direct
 σ-Si-Si to Au Coordination, JACS, 138 (36), 11505-11508 (2016).'
   pdf: '/static/pdf/2016-Kim-JACS.pdf'
-  Links:
-      - name: "Link"
-        url: 'https://pubs.acs.org/doi/abs/10.1021/jacs.6b07825'
+  links:
+    - name: "Link"
+      url: 'https://pubs.acs.org/doi/abs/10.1021/jacs.6b07825'
 
 - citation: 'T. Su†, H. Li†, R. Klausen, J. R. Widawsky, A. Batra, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Tuning Conductance
 in π–σ–π Single-Molecule Wires, JACS, 138 (24), 7791-7795 (2016).'
   pdf: '/static/pdf/2016-Su-JACS.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.6b04394'
+  links:
+    - name: "Link"
+      url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.6b04394'
 
 - citation: 'H. Li†, M. Garner†, Z. Shangguan†, T. Su, M. Neupane, P. Li, A. Velian, M. L. Steigerwald, S. Xiao, C. Nuckolls, G. Solomon,
 L. Venkataraman, Conformations of Cyclopentasilane Stereoisomers Control Molecular Junction Conductance, Chemical
 Science, 7, 5657-5662 (2016)'
   pdf: '/static/pdf/2016-Li-ChemicalScience.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc01360k#!divAbstract'
+  links:
+    - name: "Link"
+      url: 'http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc01360k#!divAbstract'
 
 - citation: 'T. Su†, H. Li†, V. Zhang, M. Neupane, A. Batra, R. S. Klaussen, B. Kumar, M. L. Steigerwald, L. Venkataraman, C. Nuckolls,
 Single-Molecule Conductance in Atomically Precise Germanium Wires, JACS, 137 (38), 12400-12405 (2015).'
   pdf: '/static/pdf/2015-SuLi-JACS.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.5b08155'
+  links:
+    - name: "Link"
+      url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.5b08155'
 
 - citation: 'H. Li, T. Su, M. L. Steigerwald, C. Nuckolls, L. Venkataraman, Electric Field Breakdown in Single Molecule Junctions, JACS,
 137 (15), 5028-5033 (2015).'
   pdf: '/static/pdf/2015-Li-JACS.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://pubs.acs.org/doi/abs/10.1021/ja512523r'
+  links:
+    - name: "Link"
+      url: 'http://pubs.acs.org/doi/abs/10.1021/ja512523r'
 
 - citation: 'T. Su, H. Li, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Stereoelectronic Switching in Single-Molecule Junctions,
 Nature Chemistry, 7, 215-220 (2015).'
   pdf: '/static/pdf/2015-Su-NatureChem.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://doi.org/10.1038/nchem.2180'
-      - name: "Featured in Nature Chemistry Editorial"
-        url: 'http://www.nature.com/nchem/journal/v7/n3/full/nchem.2200.html'
+  links:
+    - name: "Link"
+      url: 'http://doi.org/10.1038/nchem.2180'
+    - name: "Featured in Nature Chemistry Editorial"
+      url: 'http://www.nature.com/nchem/journal/v7/n3/full/nchem.2200.html'
+    - name: "Featured in Phys.org"
+      url: 'https://phys.org/news/2015-02-electronic-based-stereoisomerism.html'
 
 - citation: 'R. Klausen, J. Widawsky, T. Su, H. Li, M.L. Steigerwald, L. Venkataraman, C. Nuckolls, Evaluating Atomic Components in
 Fluorene Circuits, Chemical Science, 5, 1561-1564 (2014).'
   pdf: '/static/pdf/2014-Klausen-ChemSci.pdf'
-  Links:
-      - name: "Link"
-        url: 'https://pubs.rsc.org/en/content/articlelanding/2014/sc/c4sc00064a#!divAbstract'
+  links:
+    - name: "Link"
+      url: 'https://pubs.rsc.org/en/content/articlelanding/2014/sc/c4sc00064a#!divAbstract'
 
 - citation: 'W. Chen, H. Li, J. R. Widawsky, C. Appayee, L. Venkataraman, R. Breslow, Aromaticity Decreases Single-Molecule Junction
 Conductance, JACS, 136, 918-920 (2014).'
   pdf: '/static/pdf/2014-Chen-JACS.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://pubs.acs.org/doi/abs/10.1021/ja411143s'
+  links:
+    - name: "Link"
+      url: 'http://pubs.acs.org/doi/abs/10.1021/ja411143s'
 
 - citation: 'T. Su, J. Widawsky, H. Li, R. Klausen, J. Leighton, M. Steigerwald, L. Venkataraman, C. Nuckolls, Silicon Ring Strain Creates
 High-Conductance Pathways in Single-Molecule Circuits, JACS, 135, 18331 (2013)'
   pdf: '/static/pdf/2013-Su-JACS.pdf'
-  Links:
-      - name: "Link"
-        url: 'http://pubs.acs.org/doi/abs/10.1021/ja410656a'
+  links:
+    - name: "Link"
+      url: 'http://pubs.acs.org/doi/abs/10.1021/ja410656a'
