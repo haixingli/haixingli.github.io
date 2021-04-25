@@ -9,7 +9,17 @@ By applying physics approaches centered around single molecule techniques onto a
 ultimately design and create novel functionalities that harness molecular properties.
 
 <figure>
+  <style>
+  img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: attr(width) / attr(height);
+  }
+  </style>
+
   <img
   src="/static/img/banners/ResearchTOC_v1.png"
-  alt="The research TOC.">
+  alt=""
+  width="500"
+  height="500">
 </figure>
