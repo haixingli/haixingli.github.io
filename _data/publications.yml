@@ -4,6 +4,7 @@ Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift
   number: 18
   number:
   pdf: '/static/pdf/2021-HowardLi-NatComm.pdf'
+  si: '/static/pdf/2021-HowardLi-NatComm-SI.pdf'
   links:
     - name: "Link"
       url: 'https://www.nature.com/articles/s41467-020-20373-z'
@@ -13,6 +14,7 @@ Venkataraman, G. C. Solomon, Permethylation Introduces Destructive Quantum Inter
 141 (39), 15471-15476 (2019).'
   number: 17
   pdf: '/static/pdf/2019-Garner-JACS.pdf'
+  si: '/static/pdf/2019-Garner-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'https://pubs.acs.org/doi/10.1021/jacs.9b06965'
@@ -21,6 +23,7 @@ Venkataraman, G. C. Solomon, Permethylation Introduces Destructive Quantum Inter
 self-assembled monolayers, Nature Chemistry, 11 (4), 351-358 (2019).'
   number: 16
   pdf: '/static/pdf/2019-Inkpen-NatureChem.pdf'
+  si: '/static/pdf/2019-Inkpen-NatureChem-SI.pdf'
   links:
     - name: "Link"
       url: 'https://www.nature.com/articles/s41557-019-0216-y'
@@ -32,6 +35,7 @@ Xiao, G. Solomon, L. Venkataraman, Large Variations in Single Molecule Conductan
 140 (44), 15080-15088 (2018).'
   number: 15
   pdf: '/static/pdf/2018-Li-JACS.pdf'
+  si: '/static/pdf/2018-Li-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'https://pubs.acs.org/doi/10.1021/jacs.8b10296'
@@ -61,6 +65,7 @@ C. Nuckolls, F. Evers, L. Venkataraman, Silver Makes Better Electrical Contacts 
 Angewandte Chemie, 56, (45), 14145-14148 (2017).'
   number: 13
   pdf: '/static/pdf/2017-Li-Angewandte.pdf'
+  si: '/static/pdf/2017-Li-Angewandte-SI.pdf'
   links:
     - name: "Link"
       url: 'http://onlinelibrary.wiley.com/doi/10.1002/anie.201708524/full'
@@ -69,6 +74,7 @@ Angewandte Chemie, 56, (45), 14145-14148 (2017).'
 Conductance Suppression in Molecular Siloxanes, JACS, 139 (30), 10212-10215 (2017).'
   number: 12
   pdf: '/static/pdf/2017-Li-JACS.pdf'
+  si: '/static/pdf/2017-Li-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'http://pubs.acs.org/doi/10.1021/jacs.7b05599'
@@ -91,6 +97,7 @@ Germane Molecular Electronics, Accounts of Chemical Research, 50 (4), 1088-1095 
 Rupture in Single Molecule Junctions, JACS, 138 (49), 16159-16164 (2016).'
   number: 10
   pdf: '/static/pdf/2016-Li-JACS.pdf'
+  si: '/static/pdf/2016-Li-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.6b10700'
@@ -99,6 +106,7 @@ Rupture in Single Molecule Junctions, JACS, 138 (49), 16159-16164 (2016).'
 σ-Si-Si to Au Coordination, JACS, 138 (36), 11505-11508 (2016).'
   number: 9
   pdf: '/static/pdf/2016-Kim-JACS.pdf'
+  pdf: '/static/pdf/2016-Kim-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'https://pubs.acs.org/doi/abs/10.1021/jacs.6b07825'
@@ -107,6 +115,7 @@ Rupture in Single Molecule Junctions, JACS, 138 (49), 16159-16164 (2016).'
 in π–σ–π Single-Molecule Wires, JACS, 138 (24), 7791-7795 (2016).'
   number: 8
   pdf: '/static/pdf/2016-Su-JACS.pdf'
+  si: '/static/pdf/2016-Su-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.6b04394'
@@ -116,6 +125,7 @@ L. Venkataraman, Conformations of Cyclopentasilane Stereoisomers Control Molecul
 Science, 7, 5657-5662 (2016)'
   number: 7
   pdf: '/static/pdf/2016-Li-ChemicalScience.pdf'
+  si: '/static/pdf/2016-Li-ChemicalScience-SI.pdf'
   links:
     - name: "Link"
       url: 'http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc01360k#!divAbstract'
@@ -124,6 +134,7 @@ Science, 7, 5657-5662 (2016)'
 Single-Molecule Conductance in Atomically Precise Germanium Wires, JACS, 137 (38), 12400-12405 (2015).'
   number: 6
   pdf: '/static/pdf/2015-SuLi-JACS.pdf'
+  si: '/static/pdf/2015-SuLi-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.5b08155'
@@ -132,6 +143,7 @@ Single-Molecule Conductance in Atomically Precise Germanium Wires, JACS, 137 (38
 137 (15), 5028-5033 (2015).'
   number: 5
   pdf: '/static/pdf/2015-Li-JACS.pdf'
+  pdf: '/static/pdf/2015-Li-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'http://pubs.acs.org/doi/abs/10.1021/ja512523r'
@@ -140,6 +152,7 @@ Single-Molecule Conductance in Atomically Precise Germanium Wires, JACS, 137 (38
 Nature Chemistry, 7, 215-220 (2015).'
   number: 4
   pdf: '/static/pdf/2015-Su-NatureChem.pdf'
+  si: '/static/pdf/2015-Su-NatureChem-SI.pdf'
   links:
     - name: "Link"
       url: 'http://doi.org/10.1038/nchem.2180'
@@ -152,6 +165,7 @@ Nature Chemistry, 7, 215-220 (2015).'
 Fluorene Circuits, Chemical Science, 5, 1561-1564 (2014).'
   number: 3
   pdf: '/static/pdf/2014-Klausen-ChemSci.pdf'
+  si: '/static/pdf/2014-Klausen-ChemSci-SI.pdf'
   links:
     - name: "Link"
       url: 'https://pubs.rsc.org/en/content/articlelanding/2014/sc/c4sc00064a#!divAbstract'
@@ -160,6 +174,7 @@ Fluorene Circuits, Chemical Science, 5, 1561-1564 (2014).'
 Conductance, JACS, 136, 918-920 (2014).'
   number: 2
   pdf: '/static/pdf/2014-Chen-JACS.pdf'
+  si: '/static/pdf/2014-Chen-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'http://pubs.acs.org/doi/abs/10.1021/ja411143s'
@@ -168,6 +183,7 @@ Conductance, JACS, 136, 918-920 (2014).'
 High-Conductance Pathways in Single-Molecule Circuits, JACS, 135, 18331 (2013)'
   number: 1
   pdf: '/static/pdf/2013-Su-JACS.pdf'
+  si: '/static/pdf/2013-Su-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'http://pubs.acs.org/doi/abs/10.1021/ja410656a'
