@@ -106,7 +106,7 @@ Rupture in Single Molecule Junctions, JACS, 138 (49), 16159-16164 (2016).'
 σ-Si-Si to Au Coordination, JACS, 138 (36), 11505-11508 (2016).'
   number: 9
   pdf: '/static/pdf/2016-Kim-JACS.pdf'
-  pdf: '/static/pdf/2016-Kim-JACS-SI.pdf'
+  si: '/static/pdf/2016-Kim-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'https://pubs.acs.org/doi/abs/10.1021/jacs.6b07825'
@@ -143,7 +143,7 @@ Single-Molecule Conductance in Atomically Precise Germanium Wires, JACS, 137 (38
 137 (15), 5028-5033 (2015).'
   number: 5
   pdf: '/static/pdf/2015-Li-JACS.pdf'
-  pdf: '/static/pdf/2015-Li-JACS-SI.pdf'
+  si: '/static/pdf/2015-Li-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'http://pubs.acs.org/doi/abs/10.1021/ja512523r'
