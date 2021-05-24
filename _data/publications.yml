@@ -95,7 +95,7 @@ Germane Molecular Electronics, Accounts of Chemical Research, 50 (4), 1088-1095 
 - citation: 'H. Li, N. Kim, T. Su, M. L. Steigerwald, C. Nuckolls, P. Darancet, J. Leighton, L. Venkataraman, Mechanism for Si-Si Bond
 Rupture in Single Molecule Junctions, JACS, 138 (49), 16159-16164 (2016).'
   number: 10
-  image: '/static/img/publications/2016-Li-JACS-cover'
+  image: '/static/img/publications/2016-Li-JACS-cover.pdf'
   pdf: '/static/pdf/2016-Li-JACS.pdf'
   si: '/static/pdf/2016-Li-JACS-SI.pdf'
   links:
@@ -124,7 +124,7 @@ in π–σ–π Single-Molecule Wires, JACS, 138 (24), 7791-7795 (2016).'
 L. Venkataraman, Conformations of Cyclopentasilane Stereoisomers Control Molecular Junction Conductance, Chemical
 Science, 7, 5657-5662 (2016)'
   number: 7
-  image: '/static/img/publications/2016-Li-ChemicalScience-cover'
+  image: '/static/img/publications/2016-Li-ChemicalScience-cover.pdf'
   pdf: '/static/pdf/2016-Li-ChemicalScience.pdf'
   si: '/static/pdf/2016-Li-ChemicalScience-SI.pdf'
   links:
@@ -143,7 +143,7 @@ Single-Molecule Conductance in Atomically Precise Germanium Wires, JACS, 137 (38
 - citation: 'H. Li, T. Su, M. L. Steigerwald, C. Nuckolls, L. Venkataraman, Electric Field Breakdown in Single Molecule Junctions, JACS,
 137 (15), 5028-5033 (2015).'
   number: 5
-  image: '/static/img/publications/2015-Li-JACS-cover'
+  image: '/static/img/publications/2015-Li-JACS-cover.pdf'
   pdf: '/static/pdf/2015-Li-JACS.pdf'
   si: '/static/pdf/2015-Li-JACS-SI.pdf'
   links:
