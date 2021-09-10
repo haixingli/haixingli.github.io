@@ -19,7 +19,7 @@ max_width: 800px
 
 ### PROFESSIONAL EXPERIENCE
 <div class="row" style="max-width: {{page.max_width}}">
-<div class="col-sm col-sm-2"><strong>2017-Present</strong></div><div class="col col-sm-10"><p>Postdoctoral Researcher, Department of Chemistry, Columbia University<br>
+<div class="col-sm col-sm-2"><strong>2017-2021</strong></div><div class="col col-sm-10"><p>Postdoctoral Researcher, Department of Chemistry, Columbia University<br>
 	Advisor: Dr. Ruben L. Gonzalez Jr.</p></div>
 
 </div>
@@ -28,6 +28,7 @@ max_width: 800px
 
 ### FELLOWSHIPS AND AWARDS
 <div class="row" style="max-width: {{page.max_width}}">
+<div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Travel Award, American Chemical Society, Division of Biological Chemistry</p></div>
 <div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Virtual Travel Award, The Biophysical Society</p></div>
 <div class="col-sm col-sm-2"><strong>2019</strong></div><div class="col col-sm-10"><p>Charles H. Revson Senior Postdoctoral Fellowship in Biomedical Science</p></div>
 <div class="col-sm col-sm-2"><strong>2019</strong></div><div class="col col-sm-10"><p>Travel Grant, NextProf Science Workshop, University of Michigan</p></div>
