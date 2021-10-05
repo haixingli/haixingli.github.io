@@ -12,20 +12,20 @@ max_width: 800px
 <div class="col-sm col-sm-2"><strong>2017</strong></div><div class="col col-sm-10"><p>Ph.D. in Applied Physics, Columbia University<br>
 	Thesis: Electronic Properties of Molecular Silicon<br>
 	Advisor: Dr. Latha Venkataraman</p></div>
+
 <div class="col-sm col-sm-2"><strong>2012</strong></div><div class="col col-sm-10"><p>B.S. in Physics, University of Science and Technology of China<br>
 		Advisor: Dr. Xianhui Chen</p></div>
 </div>
 
 
 ### PROFESSIONAL EXPERIENCE
-<div class="row" style="max-width: {{page.max_width}}">
+<div class="row" style="max-width: {{page.max_width}};">
 
-<div class="col-sm col-sm-2"><strong>2022 -</strong></div><div class="col col-sm-10"><p>Assistant Professor, Department of Physics, City University of Hong Kong<br>
+<div class="col-sm col-sm-2"><strong>2022- </strong></div><div class="col col-sm-10"><p>Assistant Professor, Department of Physics, City University of Hong Kong</p></div>
 
 
 <div class="col-sm col-sm-2"><strong>2017-2021</strong></div><div class="col col-sm-10"><p>Postdoctoral Fellow, Department of Chemistry, Columbia University<br>
 	Advisor: Dr. Ruben L. Gonzalez Jr.</p></div>
-
 </div>
 
 
