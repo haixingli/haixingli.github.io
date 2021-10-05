@@ -39,7 +39,7 @@ max_width: 800px
 <div class="col-sm col-sm-2"><strong>2017</strong></div><div class="col col-sm-10"><p>Travel Award, Future Faculty Workshop, Case Western Reserve University</p></div>
 <div class="col-sm col-sm-2"><strong>2017</strong></div><div class="col col-sm-10"><p>Chinese Government Award for Outstanding Students Abroad</p></div>
 <div class="col-sm col-sm-2"><strong>2017</strong></div><div class="col col-sm-10"><p>Ovshinsky Student Travel Award, American Physical Society</p></div>
-<div class="col-sm col-sm-2"><strong>2016-2017</strong></div><div class="col col-sm-10"><p>Columbia Teaching Observation Fellowship</p></div>
+<div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Columbia Teaching Observation Fellowship</p></div>
 <div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Student Travel Award, Columbia Graduate Student Advisory Council</p></div>
 <div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Professional Development Scholarship, Columbia Engineering Graduate Student Council</p></div>
 <div class="col-sm col-sm-2"><strong>2012</strong></div><div class="col col-sm-10"><p>National University Student Innovation Program Grant, Ministry of Education of China</p></div>
