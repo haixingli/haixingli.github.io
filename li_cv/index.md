@@ -21,7 +21,7 @@ max_width: 800px
 ### PROFESSIONAL EXPERIENCE
 <div class="row" style="max-width: {{page.max_width}};">
 
-<div class="col-sm col-sm-2"><strong>2022- </strong></div><div class="col col-sm-10"><p>Assistant Professor, Department of Physics, City University of Hong Kong</p></div>
+<div class="col-sm col-sm-2"><strong>2021- </strong></div><div class="col col-sm-10"><p>Assistant Professor, Department of Physics, City University of Hong Kong</p></div>
 
 
 <div class="col-sm col-sm-2"><strong>2017-2021</strong></div><div class="col col-sm-10"><p>Postdoctoral Fellow, Department of Chemistry, Columbia University<br>
