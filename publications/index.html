@@ -15,7 +15,7 @@ group: publications
 {% for publication in publications %}
 <!-- <hr> -->
 <div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{publication.number}}">
-<div style="font-size: 120% !important;">{{publication.number}.{publication.citation | markdownify }}</div>
+<div style="font-size: 120% !important;">{{publication.number}}.{{publication.citation | markdownify }}</div>
 	<div class="col-sm-6">
 		{% if publication.image %}
 		<img class = "img-responsive pubimg" src = "{{publication.image}}" alt = "Key Figure" style="max-height: 200px;">
