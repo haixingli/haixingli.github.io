@@ -1,6 +1,6 @@
 
 
-- citation: '18. H. Gamper†, H. Li†, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
+- citation: 'H. Gamper†, H. Li†, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
 Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift-Suppressor tRNA, <b>Nature Communications</b>,
 12(1), 1-18 (2021).'
   number: 18
@@ -10,7 +10,7 @@ Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift
     - name: "Link"
       url: 'https://www.nature.com/articles/s41467-020-20373-z'
 
-- citation: '17. M. Garner†, H. Li†, M. Neupane†, Q. Zou, T. Liu, T. A. Su, Z. Shangguan, D. W. Paley, F. Ng, S. Xiao, C. Nuckolls, L.
+- citation: 'M. Garner†, H. Li†, M. Neupane†, Q. Zou, T. Liu, T. A. Su, Z. Shangguan, D. W. Paley, F. Ng, S. Xiao, C. Nuckolls, L.
 Venkataraman, G. C. Solomon, Permethylation Introduces Destructive Quantum Interference in Saturated Silanes, <b>JACS</b>,
 141 (39), 15471-15476 (2019).'
   number: 17
@@ -20,7 +20,7 @@ Venkataraman, G. C. Solomon, Permethylation Introduces Destructive Quantum Inter
     - name: "Link"
       url: 'https://pubs.acs.org/doi/10.1021/jacs.9b06965'
 
-- citation: '16. M. S. Inkpen, Z.-F. Liu, H. Li, L. Campos, J. B. Neaton, L. Venkataraman, Non-chemisorbed gold-sulfur binding prevails in
+- citation: 'M. S. Inkpen, Z.-F. Liu, H. Li, L. Campos, J. B. Neaton, L. Venkataraman, Non-chemisorbed gold-sulfur binding prevails in
 self-assembled monolayers, <b>Nature Chemistry</b>, 11 (4), 351-358 (2019).'
   number: 16
   pdf: '/static/pdf/2019-Inkpen-NatureChem.pdf'
