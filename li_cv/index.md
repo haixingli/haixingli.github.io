@@ -5,7 +5,7 @@ layout: default
 max_width: 800px
 ---
 
-# Haixing Li, PhD
+Haixing Li, PhD
 
 Education
 <div class="row" style="max-width: {{page.max_width}};">
@@ -18,7 +18,7 @@ Education
 </div>
 
 
-### Appointments
+Appointments
 <div class="row" style="max-width: {{page.max_width}};">
 
 <div class="col-sm col-sm-2"><strong>2021- </strong></div><div class="col col-sm-10"><p>Assistant Professor, Department of Physics, City University of Hong Kong</p></div>
@@ -30,7 +30,7 @@ Education
 
 
 
-### Awards and Honors
+Awards and Honors
 <div class="row" style="max-width: {{page.max_width}}">
 <div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Travel Award, American Chemical Society, Division of Biological Chemistry</p></div>
 <div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Virtual Travel Award, The Biophysical Society</p></div>
