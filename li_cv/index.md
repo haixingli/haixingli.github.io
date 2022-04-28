@@ -1,7 +1,7 @@
 ---
 title: Haixing Li, PhD
 group: members
-layout: default
+layout: parallax
 max_width: 800px
 ---
 
