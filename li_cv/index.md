@@ -1,13 +1,13 @@
 ---
 title: Haixing Li, PhD
 group: members
-layout: parallax
+layout: default
 max_width: 800px
 ---
 
 # Haixing Li, PhD
 
-### EDUCATION
+Education
 <div class="row" style="max-width: {{page.max_width}};">
 <div class="col-sm col-sm-2"><strong>2017</strong></div><div class="col col-sm-10"><p>Ph.D. in Applied Physics, Columbia University<br>
 	Thesis: Electronic Properties of Molecular Silicon<br>
@@ -18,7 +18,7 @@ max_width: 800px
 </div>
 
 
-### PROFESSIONAL EXPERIENCE
+### Appointments
 <div class="row" style="max-width: {{page.max_width}};">
 
 <div class="col-sm col-sm-2"><strong>2021- </strong></div><div class="col col-sm-10"><p>Assistant Professor, Department of Physics, City University of Hong Kong</p></div>
@@ -30,7 +30,7 @@ max_width: 800px
 
 
 
-### AWARDS
+### Awards and Honors
 <div class="row" style="max-width: {{page.max_width}}">
 <div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Travel Award, American Chemical Society, Division of Biological Chemistry</p></div>
 <div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Virtual Travel Award, The Biophysical Society</p></div>
