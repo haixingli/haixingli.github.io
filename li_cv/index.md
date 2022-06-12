@@ -42,5 +42,12 @@ Awards and Honors
 <div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Columbia Teaching Observation Fellowship</p></div>
 <div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Student Travel Award, Columbia Graduate Student Advisory Council</p></div>
 <div class="col-sm col-sm-2"><strong>2016</strong></div><div class="col col-sm-10"><p>Professional Development Scholarship, Columbia Engineering Graduate Student Council</p></div>
-<div class="col-sm col-sm-2"><strong>2012</strong></div><div class="col col-sm-10"><p>National University Student Innovation Program Grant, Ministry of Education of China</p></div>
+<div class="col-sm col-sm-2"><strong>2010</strong></div><div class="col col-sm-10"><p>National University Student Innovation Program Grant, Ministry of Education of China</p></div>
+</div>
+
+Invited Presentations
+<div class="row" style="max-width: {{page.max_width}}">
+<div class="col-sm col-sm-2"><strong>May/2021</strong></div><div class="col col-sm-10"><p>The Revson Foundation Annual Meeting and Dinner, Virtual</p></div>
+<div class="col-sm col-sm-2"><strong>June/2022</strong></div><div class="col col-sm-10"><p>Annual Symposium, City University of Hong Kong,Department of Physics, Hong Kong</p></div>
+<div class="col-sm col-sm-2"><strong>June/2022</strong></div><div class="col col-sm-10"><p>Exotic Quantum Effects in Complex Materials Workshop, City University of Hong Kong, Hong Kong</p></div>
 </div>

@@ -1,6 +1,8 @@
-- citation: '<u>B. Wu</u>, <u>W. Guo</u>, <u>J. M. An</u>, <u>H. Li</u>, Control of Molecular Conductance by pH, invited review, submitted.'
+- citation: '<u>B. Wu</u>, <u>W. Guo</u>, <u>J. M. An</u>, <u>H. Li#</u>, Control of Molecular Conductance by pH, invited review, accepted, <b>Journal of Materials Chemistry C</b>.'
   number: 19
-
+  links:
+  - name: "Link"
+    url: 'https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01140a/unauth'
 
 - citation: 'H. Gamper†, H. Li†, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
 Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift-Suppressor tRNA, <b>Nature Communications</b>,
