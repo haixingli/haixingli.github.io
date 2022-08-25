@@ -89,6 +89,8 @@ Conductance Suppression in Molecular Siloxanes, <b>JACS</b>, 139 (30), 10212-102
       url: 'https://www.chemistryworld.com/news/1d-nanowire-is-worlds-worst-conductor/3007774.article'
     - name: "Featured in Compounds Interest"
       url: 'https://www.compoundchem.com/2017/07/30/twic30072017/'
+    - name: "Featured in nplus1.ru"
+      url: 'https://nplus1.ru/news/2017/07/29/worst-conductor-best-insulator'
 
 - citation: 'T. Su, H. Li, R. Klausen, N. Kim, M. Neupane, J. Leighton, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Silane and
 Germane Molecular Electronics, <b>Accounts of Chemical Research</b>, 50 (4), 1088-1095 (2017).'
@@ -101,7 +103,7 @@ Germane Molecular Electronics, <b>Accounts of Chemical Research</b>, 50 (4), 108
 - citation: 'H. Li, N. Kim, T. Su, M. L. Steigerwald, C. Nuckolls, P. Darancet, J. Leighton, L. Venkataraman, Mechanism for Si-Si Bond
 Rupture in Single Molecule Junctions, <b>JACS</b>, 138 (49), 16159-16164 (2016).'
   number: 10
-  image: '/static/img/publications/2016-Li-JACS-cover.pdf'
+  image: '/static/img/publications/2016-Li-JACS-cover.png'
   pdf: '/static/pdf/2016-Li-JACS.pdf'
   si: '/static/pdf/2016-Li-JACS-SI.pdf'
   links:
@@ -130,7 +132,7 @@ in π–σ–π Single-Molecule Wires, <b>JACS</b>, 138 (24), 7791-7795 (2016).'
 L. Venkataraman, Conformations of Cyclopentasilane Stereoisomers Control Molecular Junction Conductance, <b>Chemical
 Science</b>, 7, 5657-5662 (2016)'
   number: 7
-  image: '/static/img/publications/2016-Li-ChemicalScience-cover.pdf'
+  image: '/static/img/publications/2016-Li-ChemicalScience-cover.png'
   pdf: '/static/pdf/2016-Li-ChemicalScience.pdf'
   si: '/static/pdf/2016-Li-ChemicalScience-SI.pdf'
   links:
@@ -149,7 +151,7 @@ Single-Molecule Conductance in Atomically Precise Germanium Wires, <b>JACS</b>, 
 - citation: 'H. Li, T. Su, M. L. Steigerwald, C. Nuckolls, L. Venkataraman, Electric Field Breakdown in Single Molecule Junctions, <b>JACS</b>,
 137 (15), 5028-5033 (2015).'
   number: 5
-  image: '/static/img/publications/2015-Li-JACS-cover.pdf'
+  image: '/static/img/publications/2015-Li-JACS-cover.png'
   pdf: '/static/pdf/2015-Li-JACS.pdf'
   si: '/static/pdf/2015-Li-JACS-SI.pdf'
   links:
