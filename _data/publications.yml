@@ -1,8 +1,11 @@
-- citation: '<u>B. Wu</u>, <u>W. Guo</u>, <u>J. M. An</u>, <u>H. Li#</u>, Control of Molecular Conductance by pH, invited review, accepted, <b>Journal of Materials Chemistry C</b>.'
+- citation: '<u>B. Wu</u>, <u>W. Guo</u>, <u>J. M. An</u>, <u>H. Li#</u>, Control of Molecular Conductance by pH,
+<b>J. Mater. Chem. C</b>, 10, 13483-13498, (2022).'
   number: 19
   links:
-  - name: "Link"
-    url: 'https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01140a/unauth'
+    - name: "Link"
+      url: 'https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01140a/unauth'
+    - name: "Invited Review for 2022 Emerging Investigators Issue"
+      url: 'https://pubs.rsc.org/en/content/articlehtml/2022/tc/d2tc90175g?page=search'
 
 - citation: 'H. Gamper†, H. Li†, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
 Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift-Suppressor tRNA, <b>Nature Communications</b>,
@@ -139,7 +142,7 @@ Science</b>, 7, 5657-5662 (2016)'
     - name: "Link"
       url: 'http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc01360k#!divAbstract'
 
-- citation: 'T. Su†, H. Li†, V. Zhang, M. Neupane, A. Batra, R. S. Klaussen, B. Kumar, M. L. Steigerwald, L. Venkataraman, C. Nuckolls,
+- citation: 'T. Su†, H. Li†, V. Zhang, M. Neupane, A. Batra, R. S. Klausen, B. Kumar, M. L. Steigerwald, L. Venkataraman, C. Nuckolls,
 Single-Molecule Conductance in Atomically Precise Germanium Wires, <b>JACS</b>, 137 (38), 12400-12405 (2015).'
   number: 6
   pdf: '/static/pdf/2015-SuLi-JACS.pdf'
