@@ -11,7 +11,7 @@ banner: static/img/banners/SafetyIllustration_v1.png
 The Li Lab examine molecules and bio-inspired architectures at the single molecule level to spark advances in electronics, health, and sustainability.
 
 ---
-<p align="center"> NEWS </font></p>
+<p align="center"> NEWS </p>
 
 ---
 
