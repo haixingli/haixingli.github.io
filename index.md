@@ -5,23 +5,28 @@ group: home
 banner: static/img/banners/SafetyIllustration_v1.png
 ---
 
-WELCOME TO THE LI LAB IN THE DEPARTMENT OF PHYSICS AT CITY UNIVERSITY OF HONG KONG.
+<p align="center">WELCOME TO THE LI LAB IN THE DEPARTMENT OF PHYSICS AT CITY UNIVERSITY OF HONG KONG.
+</p>
 
 The Li Lab examine molecules and bio-inspired architectures at the single molecule level to spark advances in electronics, health, and sustainability.
 
 ---
-<font size = "6"> NEWS </font>
+<p align="center"><font size = "4"> NEWS </font></p>
 
 ---
 
-**
+<span style="color:grey">*November 2022*</style>
+We went hiking with the Zhang Group and Li Group in clear water bay.
 
-**November 2022** We went hiking with the Zhang Group and Li Group in clear water bay.
+<p align="center">
+    <img height="200px" src="static/img/news/hiking2022Nov.jpg" alt="2022 Nov hiking">
+</p>
 
-<img src="static/img/news/hiking2022Nov.jpg" alt="2022 Nov hiking" style="height: 60px;"/>
+<span style="color:grey">*September 2022*</style>
+The lab welcomes new graduate student Weiyi Guo.
 
-**September 2022** The lab welcomes new graduate student Weiyi Guo.
+<span style="color:grey">*July 2022*</style>
+The lab welcomes new graduate student Jianming An.
 
-**July 2022** The lab welcomes new graduate student Jianming An.
-
-**June 2022** Haixing receives the Early Career Scheme from the Research Grants Council (Hong Kong).
+<span style="color:grey">*June 2022*</style>
+Haixing receives the Early Career Scheme from the Research Grants Council (Hong Kong).
