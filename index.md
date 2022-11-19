@@ -11,12 +11,12 @@ banner: static/img/banners/SafetyIllustration_v1.png
 The Li Lab examine molecules and bio-inspired architectures at the single molecule level to spark advances in electronics, health, and sustainability.
 
 ---
-<p align="center"><font size = "4"> NEWS </font></p>
+<p align="center"> NEWS </font></p>
 
 ---
 
 *November 2022.*
-We went hiking with the Zhang Group and the other Li Group in clear water bay.
+The lab went hiking with the Zhang Group and the other Li Group in Clear Water Bay.
 
 <p align="center">
     <img height="300px" src="static/img/news/hiking2022Nov.jpg" alt="2022 Nov hiking">
