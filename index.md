@@ -15,26 +15,21 @@ The Li Lab examine molecules and bio-inspired architectures at the single molecu
 
 ---
 
-<span style="color:grey">
-November 2022
-</span>
+*November 2022.*
 We went hiking with the Zhang Group and the other Li Group in clear water bay.
 
 <p align="center">
     <img height="300px" src="static/img/news/hiking2022Nov.jpg" alt="2022 Nov hiking">
 </p>
 
-<span style="color:grey">
-September 2022
-</span>
+
+*September 2022.*
 The lab welcomes new graduate student Weiyi Guo.
 
-<span style="color:grey">
-July 2022
-</span>
+
+*July 2022.*
 The lab welcomes new graduate student Jianming An.
 
-<span style="color:grey">
-June 2022
-</span>
+
+*June 2022.*
 Haixing receives the Early Career Scheme from the Research Grants Council (Hong Kong).
