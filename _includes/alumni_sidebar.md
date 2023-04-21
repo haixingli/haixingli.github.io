@@ -1,19 +1,60 @@
-Alumni
+## Alumni
 
+{% for person in site.data.alumni %}
 
-{{member.name}} - {{member.position}}
+<div id = "{{member.name}}" style="padding-top: 60px; margin-top: -60px;">
 
-
-{% assign start = member.startdate | date:"%Y" %} {% assign end = member.enddate | date:"%Y" %} {% if start == end %} {{ start }}
-{% else %} {{ start }} - {{ end }}
-{% endif %} {% if member.subsequent %} Subsequently: {{ member.subsequent }}
+<strong>{{member.name}}</strong> - <em>{{member.position}}</em> <br>
+{% if member.pronouns %}
+    <em>{{member.pronouns}}</em> <br>
+{% endif %}
+<!-- Dates -->
+{% assign start = member.startdate | date:"%Y" %}
+{% assign end = member.enddate | date:"%Y" %}
+{% if start == end %}
+{{ start }}<br>
+{% else %}
+{{ start }} - {{ end }}<br>
+{% endif %}
+{% if member.subsequent %}
+    Subsequently: {{ member.subsequent }}<br>
 {% endif %}
 
-{% if member.email %} {{member.email}} {%endif%}
-{% if member.website %} {{member.website}}
-{% endif %} {% if member.orcid %}  {{member.orcid}}
-{% endif %} {% if member.linkedin %}  LinkedIn
-{% endif %} {% if member.scholar %}  Scholar Citations
-{% endif %} {% if member.twitter %}  @{{member.twitter}}
-{% endif %} {% if member.github %} {% octicon mark-github %} {{member.github}}
+{% if member.cv %} <a href="{{member.cv}}" alt="{{member.name}} CV">curriculum vitae</a><br>{% endif %}
+{% if member.email %}
+{% unless member.email contains "my.cityu.edu.hk" %}
+<em>{{member.email}}</em> <br>
+{% endunless %}
+{%endif%}
+{% if member.website %}
+    <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
 {% endif %}
+{% if member.orcid %}
+    <a href="http://orcid.org/{{member.orcid}}" class="align-middle">
+    <img class="inline-block mem-logo" src="/static/img/logo/orcid_logo.svg">
+{{member.orcid}}
+</a> <br>
+{% endif %}
+{% if member.linkedin %}
+    <a href= "http://www.linkedin.com/in/{{member.linkedin}}">
+    <img class="inline-block mem-logo" src="/static/img/logo/linkedin_logo.svg">
+    LinkedIn </a> <br>
+{% endif %}
+{% if member.scholar %}
+    <a href= "http://scholar.google.com/citations?user={{member.scholar}}">
+    <img class="inline-block mem-logo" src="/static/img/logo/gscholar_logo.svg">
+    Scholar Citations </a> <br>
+{% endif %}
+{% if member.twitter %}
+    <a href= "http://twitter.com/{{member.twitter}}">
+    <img class="inline-block mem-logo" src="/static/img/logo/twitter_logo.svg">
+    @{{member.twitter}}
+    </a> <br>
+{% endif %}
+{% if member.github %}
+    <a href= "http://github.com/{{member.github}}"> {% octicon mark-github %} {{member.github}} </a> <br>
+{% endif %}
+
+</div>
+{% endfor %}
+<br>
