@@ -9,8 +9,8 @@ Alumni
 {% endif %} {% if member.subsequent %} Subsequently: {{ member.subsequent }}
 {% endif %}
 
-{% if member.email %} {{member.email}}
-{% endunless %} {%endif%} {% if member.website %} {{member.website}}
+{% if member.email %} {{member.email}} {%endif%}
+{% if member.website %} {{member.website}}
 {% endif %} {% if member.orcid %}  {{member.orcid}}
 {% endif %} {% if member.linkedin %}  LinkedIn
 {% endif %} {% if member.scholar %}  Scholar Citations
