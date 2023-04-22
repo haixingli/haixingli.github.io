@@ -13,12 +13,24 @@ The Li Lab examine molecules and bio-inspired architectures at the single molecu
 ---
 <p align="center"> NEWS </p>
 ---
+*April 2023.*
+The semester ends with a joint biking event with the Zhang Group.
+
+<p align="center">
+    <img height="300px" src="static/img/news/2023.04biking.jpg" alt="2023 Mar biking">
+</p>
+
+*March 2023.*
+Haixing and Prof. Zhenpin Lu from Chemistry Department receive a strategic interdisciplinary research grant from CityU.
+
+*January 2023.*
+Haixing receives a teaching start-up grant from CityU.
 
 *November 2022.*
 The lab went hiking with the Zhang Group and the other Li Group in Clear Water Bay.
 
 <p align="center">
-    <img height="300px" src="static/img/news/hiking2022Nov.jpg" alt="2022 Nov hiking">
+    <img height="300px" src="static/img/news/2022.11hiking.jpg" alt="2022 Nov hiking">
 </p>
 
 
