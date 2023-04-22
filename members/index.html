@@ -5,12 +5,13 @@ group: members
 banner: /static/img/banners/SafetyIllustration_v3.png
 ---
 <!--
-<h1>Members</h1>
+<h1>Grotjahn Lab Members</h1>
  -->
 
-{% for person in site.data.members %}
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+{% assign sorted_members = site.members | sort: 'startdate' | sort: 'order' %}
+{% for person in sorted_members %}
 <div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
         <img class="img-responsive pubimg" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
@@ -18,8 +19,12 @@ banner: /static/img/banners/SafetyIllustration_v3.png
         {% if person.pronouns %}
           <em>{{person.pronouns}}</em> <br>
         {% endif %}
-        {{person.position}} <br>
-        {% if person.cv %} <a href="{{person.cv}}" alt="{{person.name}} CV">curriculum vitae</a><br>{% endif %}
+
+        {{person.position}}{% if person.funding %}, {{person.funding | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}<br>
+        {% if person.cv %}
+        <a href="{{person.cv}}" alt="{{person.name}} CV">curriculum vitae</a><br>
+        {% endif %}
+
         {% if person.email %}
         <em>{{person.email}}</em> <br>
         {%endif%}
@@ -43,19 +48,17 @@ banner: /static/img/banners/SafetyIllustration_v3.png
           Scholar Citations </a> <br>
         {% endif %}
         {% if person.twitter %}
-
           <a href= "http://twitter.com/{{person.twitter}}">
             <img class="inline-block mem-logo" src="/static/img/logo/twitter_logo.svg">
             @{{person.twitter}}
           </a> <br>
         {% endif %}
         {% if person.github %}
-
           <a href= "http://github.com/{{person.github}}"> {% octicon mark-github %} {{person.github}} </a> <br>
         {% endif %}
     </div>
     <div class="col-sm-8 text-justify">
-        {{person.description | markdownify}}
+        {{person.content}}
     </div>
 </div>
 {% if forloop.last == false %}
