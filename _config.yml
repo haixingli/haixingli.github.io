@@ -1,7 +1,14 @@
 title: Li Lab
-description: Webpage for the Li Lab.
+description: Webpage for the Li Lab at CityU.
 
 url: https://haixingli.github.io
 permalink: pretty
 plugins:
   - jekyll-octicons
+collections:
+  members:
+    output: False
+  alumni:
+    output: False
+  publications:
+    output: False
