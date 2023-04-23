@@ -21,7 +21,7 @@ The semester ends with a joint biking event with the Zhang Group.
 </p>
 
 *March 2023.*
-Haixing and Prof. Zhenpin Lu from Chemistry Department receive a strategic interdisciplinary research grant from CityU.
+The Lu Group from Chemistry Department and the Li group receive a strategic interdisciplinary research grant from CityU.
 
 *January 2023.*
 Haixing receives a teaching start-up grant from CityU.
@@ -43,4 +43,4 @@ The lab welcomes new graduate student Jianming An.
 
 
 *June 2022.*
-Haixing receives the Early Career Scheme from the Research Grants Council (Hong Kong).
+Haixing receives the Early Career Scheme grant from the Research Grants Council (Hong Kong).
