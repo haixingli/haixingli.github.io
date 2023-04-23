@@ -42,5 +42,5 @@ The lab welcomes new graduate student Weiyi Guo.
 The lab welcomes new graduate student Jianming An.
 
 
-*June 2022.*
+<b>June 2022.</b>
 Haixing receives the Early Career Scheme grant from the Research Grants Council (Hong Kong).
