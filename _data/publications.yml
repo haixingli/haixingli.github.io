@@ -1,6 +1,7 @@
-- citation: 'B. Wu, W. Guo, J. M. An, H. Li, Control of Molecular Conductance by pH,
+- citation: 'B. Wu, W. Guo, J. M. An, H. Li*, Control of Molecular Conductance by pH,
 <b>J. Mater. Chem. C</b>, 10, 13483-13498, (2022).'
   number: 19
+  pdf: '/static/pdf/2022-Wu-JMaterChemC.pdf'
   links:
     - name: "Link"
       url: 'https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01140a/unauth'
