@@ -14,6 +14,13 @@ The Li Lab examine molecules and bio-inspired architectures at the single molecu
 <p align="center"> NEWS </p>
 ---
 *<code style="color : lightblue">April 2023.</code>*
+Congratulations to Weiyi for winning the best poster award at PHY annual symposium.
+
+<p align="center">
+    <img height="300px" src="static/img/news/2023.06poster.jpg" alt="2023 June poster">
+</p>
+
+*<code style="color : lightblue">April 2023.</code>*
 The semester ends with a joint biking event with the Zhang Group.
 
 <p align="center">

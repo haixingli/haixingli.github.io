@@ -4,7 +4,6 @@ image: /static/img/members/Guangfu.jpg
 position: Undergraduate Researcher through YutChun program
 order: 4
 status: alum
-email: 20202303423@m.ldu.edu.cn
 startdate: 2023-01-10
 enddate: 2023-05-25
 ---
