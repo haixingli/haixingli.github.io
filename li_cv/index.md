@@ -21,7 +21,7 @@ max_width: 800px
 		Advisor: Dr. Xianhui Chen</p></div>
 </div>
 
-
+---
 <strong>Appointments</strong>
 <div class="row" style="max-width: {{page.max_width}};">
 
@@ -33,7 +33,7 @@ max_width: 800px
 </div>
 
 
-
+---
 <strong>Awards and Honors</strong>
 <div class="row" style="max-width: {{page.max_width}}">
 <div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Travel Award, American Chemical Society, Division of Biological Chemistry</p></div>
@@ -49,12 +49,13 @@ max_width: 800px
 <div class="col-sm col-sm-2"><strong>2010</strong></div><div class="col col-sm-10"><p>National University Student Innovation Program Grant, Ministry of Education of China</p></div>
 </div>
 
+---
 <strong>Invited Presentations</strong>
 <div class="row" style="max-width: {{page.max_width}}">
 <div class="col-sm col-sm-2"><strong>7/2023</strong></div><div class="col col-sm-10"><p>2023 International Seminar on Interdisciplinary Materials organized by the journal of Interdisciplinary Materials, Wuhan, China</p></div>
 <div class="col-sm col-sm-2"><strong>6/2023</strong></div><div class="col col-sm-10"><p>School of Physics and Electronic Sciences, Shandong Normal University, Jinan, China</p></div>
 <div class="col-sm col-sm-2"><strong>12/2022</strong></div><div class="col col-sm-10"><p>HK Tech Forum Quantum Physics and Complex Systems, City University of Hong Kong, Hong Kong</p></div>
 <div class="col-sm col-sm-2"><strong>6/2022</strong></div><div class="col col-sm-10"><p>Exotic Quantum Effects in Complex Materials Workshop, City University of Hong Kong, Hong Kong</p></div>
-<div class="col-sm col-sm-2"><strong>6/2022</strong></div><div class="col col-sm-10"><p>Annual Symposium, City University of Hong Kong,Department of Physics, Hong Kong</p></div>
+<div class="col-sm col-sm-2"><strong>6/2022</strong></div><div class="col col-sm-10"><p>PHY Annual Symposium, City University of Hong Kong, Hong Kong</p></div>
 <div class="col-sm col-sm-2"><strong>5/2021</strong></div><div class="col col-sm-10"><p>The Revson Foundation Annual Meeting and Dinner, Virtual</p></div>
 </div>

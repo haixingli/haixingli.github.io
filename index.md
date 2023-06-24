@@ -34,7 +34,7 @@ The Lu Group from Chemistry Department and the Li group receive a strategic inte
 Haixing receives a teaching start-up grant from CityU.
 
 ---
-<p align="center"> *<code style="color : lightblue"> 2022 </code>*</p>
+<p align="center">*<code style="color : lightblue"> 2022 </code>*</p>
 ---
 
 *<code style="color : lightblue">November 2022.</code>*
