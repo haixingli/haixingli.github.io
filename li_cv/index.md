@@ -5,8 +5,11 @@ layout: default
 max_width: 800px
 ---
 
-<p align="left">HAIXING LI
+---
+<p align="center">HAIXING LI
 </p>
+---
+
 
 <strong>Education</strong>
 <div class="row" style="max-width: {{page.max_width}};">
@@ -48,10 +51,8 @@ max_width: 800px
 
 <strong>Invited Presentations</strong>
 <div class="row" style="max-width: {{page.max_width}}">
-<div class="col-sm col-sm-2"><strong>6/2023</strong></div><div class="col col-sm-10"><p>2023 International Seminar on Interdisciplinary Materials organized by the journal of Interdisciplinary Materials, Wuhan, China</p></div>
-</div>
+<div class="col-sm col-sm-2"><strong>7/2023</strong></div><div class="col col-sm-10"><p>2023 International Seminar on Interdisciplinary Materials organized by the journal of Interdisciplinary Materials, Wuhan, China</p></div>
 <div class="col-sm col-sm-2"><strong>6/2023</strong></div><div class="col col-sm-10"><p>School of Physics and Electronic Sciences, Shandong Normal University, Jinan, China</p></div>
-</div>
 <div class="col-sm col-sm-2"><strong>12/2022</strong></div><div class="col col-sm-10"><p>HK Tech Forum Quantum Physics and Complex Systems, City University of Hong Kong, Hong Kong</p></div>
 <div class="col-sm col-sm-2"><strong>6/2022</strong></div><div class="col col-sm-10"><p>Exotic Quantum Effects in Complex Materials Workshop, City University of Hong Kong, Hong Kong</p></div>
 <div class="col-sm col-sm-2"><strong>6/2022</strong></div><div class="col col-sm-10"><p>Annual Symposium, City University of Hong Kong,Department of Physics, Hong Kong</p></div>
