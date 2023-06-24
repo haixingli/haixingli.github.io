@@ -5,9 +5,10 @@ layout: default
 max_width: 800px
 ---
 
-Haixing Li
+<p align="left">HAIXING LI
+</p>
 
-Education
+<strong>Education</strong>
 <div class="row" style="max-width: {{page.max_width}};">
 <div class="col-sm col-sm-2"><strong>2017</strong></div><div class="col col-sm-10"><p>Ph.D. in Applied Physics, Columbia University<br>
 	Thesis: Electronic Properties of Molecular Silicon<br>
@@ -18,7 +19,7 @@ Education
 </div>
 
 
-Appointments
+<strong>Appointments</strong>
 <div class="row" style="max-width: {{page.max_width}};">
 
 <div class="col-sm col-sm-2"><strong>2021- </strong></div><div class="col col-sm-10"><p>Assistant Professor, Department of Physics, City University of Hong Kong</p></div>
@@ -30,7 +31,7 @@ Appointments
 
 
 
-Awards and Honors
+<strong>Awards and Honors</strong>
 <div class="row" style="max-width: {{page.max_width}}">
 <div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Travel Award, American Chemical Society, Division of Biological Chemistry</p></div>
 <div class="col-sm col-sm-2"><strong>2021</strong></div><div class="col col-sm-10"><p>Virtual Travel Award, The Biophysical Society</p></div>
@@ -45,8 +46,12 @@ Awards and Honors
 <div class="col-sm col-sm-2"><strong>2010</strong></div><div class="col col-sm-10"><p>National University Student Innovation Program Grant, Ministry of Education of China</p></div>
 </div>
 
-Invited Presentations
+<strong>Invited Presentations</strong>
 <div class="row" style="max-width: {{page.max_width}}">
+<div class="col-sm col-sm-2"><strong>6/2023</strong></div><div class="col col-sm-10"><p>2023 International Seminar on Interdisciplinary Materials organized by the journal of Interdisciplinary Materials, Wuhan, China</p></div>
+</div>
+<div class="col-sm col-sm-2"><strong>6/2023</strong></div><div class="col col-sm-10"><p>School of Physics and Electronic Sciences, Shandong Normal University, Jinan, China</p></div>
+</div>
 <div class="col-sm col-sm-2"><strong>12/2022</strong></div><div class="col col-sm-10"><p>HK Tech Forum Quantum Physics and Complex Systems, City University of Hong Kong, Hong Kong</p></div>
 <div class="col-sm col-sm-2"><strong>6/2022</strong></div><div class="col col-sm-10"><p>Exotic Quantum Effects in Complex Materials Workshop, City University of Hong Kong, Hong Kong</p></div>
 <div class="col-sm col-sm-2"><strong>6/2022</strong></div><div class="col col-sm-10"><p>Annual Symposium, City University of Hong Kong,Department of Physics, Hong Kong</p></div>
