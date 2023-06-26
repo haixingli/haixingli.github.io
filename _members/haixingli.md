@@ -3,7 +3,6 @@ name: Haixing Li
 image: /static/img/members/Haixing.jpg
 position: Principal Investigator
 order: 0
-<!--  cv: "/li_cv" -->
 cv: '/li_cv/curriculum-vitae.pdf'
 email: haixinli@cityu.edu.hk
 scholar: AGlgiewAAAAJ
@@ -12,6 +11,7 @@ orcid: 0000-0002-1383-4907
 status: leader
 startdate: 2021-12-15
 ---
+ <!--  cv: "/li_cv" -->
 Haixing Li obtained her B.S. in Physics from the University of Science and Technology of China
 in 2012 where she did her undergraduate thesis with [Prof. Xianhui Chen](https://chenxh.ustc.edu.cn/index.html) growing oxides in search of
 superconductors. During her undergraduate studies, she also spent a summer at the University of Oxford
