@@ -3,7 +3,8 @@ name: Haixing Li
 image: /static/img/members/Haixing.jpg
 position: Principal Investigator
 order: 0
-cv: "/li_cv"
+<!--  cv: "/li_cv" -->
+cv: '/li_cv/curriculum-vitae.pdf'
 email: haixinli@cityu.edu.hk
 scholar: AGlgiewAAAAJ
 twitter: haixing_li
