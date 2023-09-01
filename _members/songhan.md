@@ -1,7 +1,7 @@
 ---
 name: Song Han
 image: /static/img/members/Song.png
-position: Ph.D. Student
+position: Ph.D. Student joint with Dangyuan Lei Group
 order: 2
 email: songhan3-c@my.cityu.edu.hk
 startdate: 2023-09-01
