@@ -1,5 +1,5 @@
 ---
-name: Ching Pong CHUNG (Desmond)
+name: Ching Pong Chung (Desmond)
 position: Undergraduate final year project
 status: alum
 order: 4

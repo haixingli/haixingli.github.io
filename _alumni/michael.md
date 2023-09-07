@@ -1,5 +1,5 @@
 ---
-name: Hoi Kit CHEUNG (Michael)
+name: Hoi Kit Cheung (Michael)
 position: Undergraduate final year project
 status: alum
 order: 4
