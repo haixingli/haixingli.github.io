@@ -13,7 +13,26 @@ The Li Lab examine molecules and bio-inspired architectures at the single molecu
 ---
 <p align="center"> NEWS </p>
 ---
-*<code style="color : lightblue">April 2023.</code>*
+
+---
+<p align="center"><code style="color : lightblue"> 2024 </code></p>
+
+*<code style="color : lightblue">January 2024.</code>*
+The lab welcomes a new research assistant Yao Huo.
+
+---
+<p align="center"><code style="color : lightblue"> 2023 </code></p>
+
+*<code style="color : lightblue">September 2023.</code>*
+The lab celebrates Jianming's and Weiyi's passing of their qualifying exams and advancing to Ph.D. candidacy.
+
+*<code style="color : lightblue">September 2023.</code>*
+The lab welcomes a new master student Yihao Zhang, a new master student/research assistant Xueling Xu, and a new graduate student Song Han.
+
+*<code style="color : lightblue">June 2023.</code>*
+Haixing receives the GRF from the Research Grants Council of Hong Kong.
+
+*<code style="color : lightblue">June 2023.</code>*
 Congratulations to Weiyi for winning the best poster award at PHY annual symposium.
 
 <p align="center">
@@ -46,12 +65,12 @@ The lab went hiking with the Zhang Group and the other Li Group in Clear Water B
 
 
 *<code style="color : lightblue">September 2022.</code>*
-The lab welcomes new graduate student Weiyi Guo.
+The lab welcomes a new graduate student Weiyi Guo.
 
 
 *<code style="color : lightblue">July 2022.</code>*
-The lab welcomes new graduate student Jianming An.
+The lab welcomes a new graduate student Jianming An.
 
 
 *<code style="color : lightblue">June 2022.</code>*
-Haixing receives the Early Career Scheme grant from the Research Grants Council (Hong Kong).
+Haixing receives the Early Career Scheme grant from the Research Grants Council of Hong Kong.

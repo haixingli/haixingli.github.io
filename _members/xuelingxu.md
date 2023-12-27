@@ -1,7 +1,7 @@
 ---
 name: Xueling Xu
 image: /static/img/members/Xueling.jpg
-position: Master Student joint with Dangyuan Lei Group
+position: Master Student / Research Assistant joint with Dangyuan Lei Group
 order: 3
 email: xuelingxu2-c@my.cityu.edu.hk
 startdate: 2023-07-25
