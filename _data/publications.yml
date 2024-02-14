@@ -1,7 +1,12 @@
 
 
-- citation: 'W. Guo, T. Quainoo, Z. F. Liu, H. Li*, Robust Binding between Secondary Amines and Au Electrodes, Submitted.'
+- citation: 'W. Guo, T. Quainoo, Z. F. Liu, H. Li*, Robust Binding between Secondary Amines and Au Electrodes, <b>Chem. Commun.</b>, in press.'
   number: 20
+  links:
+    -name: "Link"
+     url: 'https://doi.org/10.1039/D3CC04284G'
+    -name: "Invited research article for 2024 Emerging Investigators Issue"
+    url: 'https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cc&themeid=0dbac782-5ac9-450f-abf4-da0a30ba6410'
 
 
 - citation: 'B. Wu, W. Guo, J. M. An, H. Li*, Control of Molecular Conductance by pH,
@@ -11,7 +16,7 @@
   links:
     - name: "Link"
       url: 'https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc01140a/unauth'
-    - name: "Invited Review for 2022 Emerging Investigators Issue"
+    - name: "Invited review for 2022 Emerging Investigators Issue"
       url: 'https://pubs.rsc.org/en/content/articlehtml/2022/tc/d2tc90175g?page=search'
 
 - citation: 'H. Gamper†, H. Li†, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
