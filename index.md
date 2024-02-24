@@ -17,8 +17,17 @@ The Li Lab examine molecules and bio-inspired architectures at the single molecu
 
 <p align="center"><code style="color : lightblue"> 2024 </code></p>
 
-*<code style="color : lightblue">January 2024.</code>*
+*<code style="color : lightblue">March 2024.</code>*
 The lab welcomes a new research assistant Yao Huo.
+
+*<code style="color : lightblue">Feb 2024.</code>*
+We start 2024 lunar new year with red paper handwriting.
+<p align="center">
+    <img height="300px" src="static/img/news/2024.02CNY.jpg" alt="2024 CNY">
+</p>
+
+*<code style="color : lightblue">Feb 2024.</code>*
+Weiyi's first first-author paper on robust binding between secondary amines and Au electrodes is published in [Chemical Communications](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d3cc04284g)!
 
 ---
 <p align="center"><code style="color : lightblue"> 2023 </code></p>
