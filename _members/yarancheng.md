@@ -1,8 +1,8 @@
 ---
 name: Yaran Cheng
 image: /static/img/members/Yaran.jpg
-position: Ph.D. Student
-order: 2
+position: Research Assistant
+order: 3
 email:
 startdate: 2024-04-01
 ---
