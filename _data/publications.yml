@@ -2,6 +2,9 @@
 
 - citation: 'W. Guo, T. Quainoo, Z. F. Liu, H. Li*, Robust Binding between Secondary Amines and Au Electrodes, <b>Chemical Communications</b>, in press.'
   number: 20
+  image: '/static/img/publications/2024-Guo-ChemComm-TOC.png'
+  pdf: '/static/pdf/2024-Guo-ChemComm.pdf'
+  si: '/static/pdf/2024-Guo-ChemComm-SI.pdf'
   links:
     - name: "Link"
       url: 'https://doi.org/10.1039/D3CC04284G'
