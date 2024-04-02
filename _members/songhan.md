@@ -1,7 +1,7 @@
 ---
 name: Song Han
 image: /static/img/members/Song.png
-position: Ph.D. Student joint with Dangyuan Lei Group
+position: Ph.D. Student
 order: 2
 email: songhan3-c@my.cityu.edu.hk
 orcid: 0009-0007-1147-7460
