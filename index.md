@@ -26,13 +26,17 @@ The lab welcomes a new research assistant Yao Huo.
 *<code style="color : lightblue">Feb 2024.</code>*
 We start 2024 lunar new year with red paper handwriting.
 <p align="center">
-    <img height="300px" src="static/img/news/2024.02CNY.jpg" alt="2024 chemcommcover">
+    <img height="300px" src="static/img/news/2024.02CNY.jpg" alt="2024 CNY">
+</p>
+
+<p align="center">
+    <img height="300px" src="static/img/news/2024.04CNYlunch.jpg" alt="2024 CNY lunch">
 </p>
 
 *<code style="color : lightblue">Feb 2024.</code>*
 Weiyi's first first-author paper on robust binding between secondary amines and Au electrodes is published in [Chemical Communications](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d3cc04284g)! And we are on the cover:
 <p align="center">
-    <img height="400px" src="static/img/news/2024.chemcommcover.pdf" alt="2024 CNY">
+    <img height="400px" src="static/img/news/2024.chemcommcover.pdf" alt="2024 chemcommcover">
 </p>
 
 ---
