@@ -8,7 +8,7 @@ banner: static/img/banners/SafetyIllustration_v1.png
 <p align="center">WELCOME TO THE LI LAB IN THE DEPARTMENT OF PHYSICS AT CITY UNIVERSITY OF HONG KONG.
 </p>
 
-The Li Lab examine molecules and develop measurement tools at the single molecule level to spark advances in electronics and sustainability.
+The Li Laboratory examines molecules and develops measurement tools at the single molecule level to spark advances in electronics and sustainability.
 
 ---
 <p align="center"> NEWS </p>
