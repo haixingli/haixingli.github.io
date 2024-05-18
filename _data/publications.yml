@@ -1,20 +1,20 @@
 
-- citation: 'J. M. Hamill*, W. Bro-Jørgensen, Z. Balogh, H. Li, S. Leitherer, D. H. Solomon, A. Halbritter, G. C.
-Solomon*, Improving single-molecule conductance measurements with change point detection from the econometrics toolbox, submitted'
+- citation: 'J. M. Hamill<sup>*</sup>, W. Bro-Jørgensen, Z. Balogh, H. Li, S. Leitherer, D. H. Solomon, A. Halbritter, G. C.
+Solomon<sup>*</sup>, Improving single-molecule conductance measurements with change point detection from the econometrics toolbox, submitted'
   number: 24
 
-- citation: 'S. Han†, X. Liang†, I. Razdolski, B. Yu, H. Li*, D. Lei*, Optical and charge transport characteristics of
+- citation: 'S. Han†, X. Liang†, I. Razdolski, B. Yu, H. Li<sup>*</sup>, D. Lei<sup>*</sup>, Optical and charge transport characteristics of
 photoswitching plasmonic molecular systems, submitted'
   number: 23
 
-- citation: 'W. Guo†, Y. Wu†, C. Xie, X. Tan, Z. Lu*, H. Li*, Simultaneous covalent Au-C contact formation and C-C homocoupling
+- citation: 'W. Guo†, Y. Wu†, C. Xie, X. Tan, Z. Lu<sup>*</sup>, H. Li<sup>*</sup>, Simultaneous covalent Au-C contact formation and C-C homocoupling
 reactions from organotin compounds in single-molecule junction, submitted'
   number: 22
 
 - citation: 'T. A. Su<sup>*</sup>, M. S. Inkpen<sup>*</sup>, H. Li<sup>*</sup>, Themed Collection on Molecular Scale Electronics, <b>Journal of Materials Chemistry C</b>, 2024, in press'
   number: 21
 
-- citation: 'W. Guo, T. Quainoo, Z. F. Liu, H. Li*, Robust Binding between Secondary Amines and Au Electrodes, <b>Chemical Communications</b>, 60, 3393-3396, (2024).'
+- citation: 'W. Guo, T. Quainoo, Z. F. Liu, H. Li<sup>*</sup>, Robust Binding between Secondary Amines and Au Electrodes, <b>Chemical Communications</b>, 60, 3393-3396, (2024).'
   number: 20
   image: '/static/img/publications/2024-Guo-ChemComm-TOC.png'
   pdf: '/static/pdf/2024-Guo-ChemComm.pdf'
@@ -27,7 +27,7 @@ reactions from organotin compounds in single-molecule junction, submitted'
     - name: "Featured on the inside front cover"
       url: 'https://pubs.rsc.org/en/content/articlepdf/2024/cc/d4cc90101k?page=search'
 
-- citation: 'B. Wu, W. Guo, J. M. An, H. Li*, Control of Molecular Conductance by pH,
+- citation: 'B. Wu, W. Guo, J. M. An, H. Li<sup>*</sup>, Control of Molecular Conductance by pH,
 <b>Journal of Materials Chemistry C</b>, 10, 13483-13498, (2022).'
   number: 19
   image: '/static/img/publications/2022-Wu-JMCC-TOC.png'
