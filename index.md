@@ -17,6 +17,13 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 
 <p align="center"><code style="color : lightblue"> 2024 </code></p>
 
+*<code style="color : lightblue">June 2024.</code>*
+So proud of our group members, Yihao and Weiyi, for both winning the poster award at PHY annual symposium!
+
+<p align="center">
+    <img height="300px" src="static/img/news/2024.06poster.jpg" alt="2023 June poster">
+</p>
+
 *<code style="color : lightblue">April 2024.</code>*
 The lab welcomes a new research assistant Yaran Cheng.
 
