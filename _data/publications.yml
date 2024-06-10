@@ -8,15 +8,17 @@ reactions from organotin compounds in single-molecule junction, submitted'
   number: 23
 
 - citation: 'S. Han†, X. Liang†, I. Razdolski, Y. Bai, H. Li<sup>*</sup>, D. Lei<sup>*</sup>, Optical and charge transport characteristics of
-photoswitching plasmonic molecular systems, <b>Progress in Quantum Electronics</b>, 2024, in press'
+photoswitching plasmonic molecular systems, <b>Progress in Quantum Electronics</b>, 95, 100517, (2024).'
   number: 22
   image: '/static/img/publications/2024-Han-ProgressinQuantumElectronics-TOC.png'
+  pdf: '/static/pdf/2024-Han-ProginQuanElec.pdf'
   links:
     - name: "Link"
       url: 'https://doi.org/10.1016/j.pquantelec.2024.100517'
 
-- citation: 'T. A. Su<sup>*</sup>, M. S. Inkpen<sup>*</sup>, H. Li<sup>*</sup>, Themed Collection on Molecular Scale Electronics, <b>Journal of Materials Chemistry C</b>, Advance Article (2024).'
+- citation: 'T. A. Su<sup>*</sup>, M. S. Inkpen<sup>*</sup>, H. Li<sup>*</sup>, Themed Collection on Molecular Scale Electronics, <b>Journal of Materials Chemistry C</b>, 12, 7830-7832, (2024).'
   number: 21
+  pdf: '/static/pdf/2024-Su-JMCC.pdf'
   links:
     - name: "Link"
       url: 'https://doi.org/10.1039/D4TC90061H'
