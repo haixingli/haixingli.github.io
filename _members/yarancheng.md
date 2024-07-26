@@ -1,8 +1,8 @@
 ---
 name: Yaran Cheng
 image: /static/img/members/Yaran.jpg
-position: Research Assistant
-order: 3
+position: Ph.D. student
+order: 2
 email: yaracheng2@cityu.edu.hk
 startdate: 2024-04-01
 ---
