@@ -1,7 +1,3 @@
-
-
-
-
 - citation: 'J. M. Hamill<sup>*</sup>, W. Bro-Jørgensen, Z. Balogh, H. Li, S. Leitherer, D. H. Solomon, A. Halbritter, G. C.
 Solomon<sup>*</sup>, Improving single-molecule conductance measurements with change point detection from the econometrics toolbox, submitted'
   number: 25
@@ -14,6 +10,9 @@ reactions from organotin compounds in single-molecule junction, submitted'
 Acid-Mediated Modulation of the Conductance of Diazapentalene Molecular Junctions, <b>The Journal of Physical Chemistry Letters</b>, in press'
   number: 23
   image: '/static/img/publications/2024-An-JPCL-TOC.png'
+  links:
+    - name: "Link"
+      url: 'https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02203'
 
 - citation: 'S. Han†, X. Liang†, I. Razdolski, Y. Bai, H. Li<sup>*</sup>, D. Lei<sup>*</sup>, Optical and charge transport characteristics of
 photoswitching plasmonic molecular systems, <b>Progress in Quantum Electronics</b>, 95, 100517, (2024).'
