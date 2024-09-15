@@ -18,19 +18,19 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 <p align="center"><code style="color : lightblue"> 2024 </code></p>
 
 *<code style="color : lightblue">September 2024.</code>*
-Weiyi's work in collaboration with Yuhao from [Zhenpin Lu's group](https://staffweb1.cityu.edu.hk/zhenpilu/index.htm) is now published in JACS!
+Weiyi's work on covalent Au-C contact formation and C-C homocoupling reaction in single-molecule junctions in collaboration with Yuhao from [Zhenpin Lu's group](https://staffweb1.cityu.edu.hk/zhenpilu/index.htm) is now published in JACS!
 
 *<code style="color : lightblue">September 2024.</code>*
 We celebrate Song's passing of his qualifying exam.
 
 *<code style="color : lightblue">September 2024.</code>*
-Xueling (joint with the Lei group), Yihao, and Yaran start their PhD in the group!
+Xueling (joint with the Lei group), Yihao, and Yaran start their PhDs in the group! The lab welcomes a new undergraduate student Shaarib.
 
 *<code style="color : lightblue">August 2024.</code>*
-Our collaboration with the group of Jianlong Xia and group of [Carmen Herrmann](https://www.chemie.uni-hamburg.de/en/institute/ac/arbeitsgruppen/herrmann.html) is out in [The Journal of Physical Chemistry Letters](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02203).
+Our collaboration with the group of Jianlong Xia and [group of Carmen Herrmann](https://www.chemie.uni-hamburg.de/en/institute/ac/arbeitsgruppen/herrmann.html) is out in The Journal of Physical Chemistry Letters.
 
 *<code style="color : lightblue">June 2024.</code>*
-Farewell, Yao! Good luck on your PhD study at University of Notre Dame.
+Farewell, Yao! Good luck on your PhD study at the University of Notre Dame.
 
 *<code style="color : lightblue">June 2024.</code>*
 Xueling and Yihao are the group's first graduating master students. Congratulations!
@@ -50,7 +50,7 @@ So proud of our group members, Yihao and Weiyi, for both winning the poster awar
 Our editorial about a themed collection on molecular scale electronics with [Tim Su](https://teamsu.org/) and [Mike Inkpen](https://www.inkpenlab.org/) is now online.
 
 *<code style="color : lightblue">May 2024.</code>*
-Song Han and Xiu Liang's review article (a nice collaboration with [Dangyuan's group](https://personal.cityu.edu.hk/dangylei/index.html)) discusses optical and charge transport characteristics of photoswitching plasmonic molecular systems.
+Song Han and Xiu Liang's review article (a nice collaboration with [the Lei group](https://personal.cityu.edu.hk/dangylei/index.html)) discusses optical and charge transport characteristics of photoswitching plasmonic molecular systems.
 
 *<code style="color : lightblue">April 2024.</code>*
 The lab welcomes a new research assistant Yaran Cheng.
