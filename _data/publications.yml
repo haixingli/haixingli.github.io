@@ -2,12 +2,13 @@
 Solomon<sup>*</sup>, Improving single-molecule conductance measurements with change point detection from the econometrics toolbox, submitted'
   number: 25
 
-- citation: 'W. Guo†, Y. Wu†, C. Xie, X. Tan, Z. Lu<sup>*</sup>, H. Li<sup>*</sup>, Simultaneous covalent Au-C contact formation and C-C homocoupling
-reactions from organotin compounds in single-molecule junction, submitted'
+- citation: 'W. Guo†, Y. Wu†, C. Xie, X. Tan, Z. Lu<sup>*</sup>, H. Li<sup>*</sup>, Covalent Au-C contact formation and C-C homocoupling
+reaction from organotin compounds in single-molecule junction, <b>JACS</b>, in press'
   number: 24
+  image: '/static/img/publications/2024-Guo-JACS-TOC.png'
 
 - citation: 'J. M. An†, X. Luo†, S. Naskar, D. Wu<sup>*</sup>, C. Herrmann, J. Xia<sup>*</sup>, H. Li<sup>*</sup>,
-Acid-Mediated Modulation of the Conductance of Diazapentalene Molecular Junctions, <b>The Journal of Physical Chemistry Letters</b>, 15, 9037–9042, (2024)'
+Acid-Mediated Modulation of the Conductance of Diazapentalene Molecular Junctions, <b>The Journal of Physical Chemistry Letters</b>, 15, 35, 9037–9042, (2024)'
   number: 23
   image: '/static/img/publications/2024-An-JPCL-TOC.png'
   links:
