@@ -6,6 +6,9 @@ Solomon<sup>*</sup>, Improving single-molecule conductance measurements with cha
 reaction from organotin compounds in single-molecule junction, <b>JACS</b>, in press'
   number: 24
   image: '/static/img/publications/2024-Guo-JACS-TOC.png'
+  links:
+    - name: "Link"
+      url: 'https://doi.org/10.1021/jacs.4c03925'
 
 - citation: 'J. M. An†, X. Luo†, S. Naskar, D. Wu<sup>*</sup>, C. Herrmann, J. Xia<sup>*</sup>, H. Li<sup>*</sup>,
 Acid-Mediated Modulation of the Conductance of Diazapentalene Molecular Junctions, <b>The Journal of Physical Chemistry Letters</b>, 15, 35, 9037–9042, (2024)'
