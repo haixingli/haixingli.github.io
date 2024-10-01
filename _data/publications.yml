@@ -2,8 +2,8 @@
 Solomon<sup>*</sup>, Improving single-molecule conductance measurements with change point detection from the econometrics toolbox, submitted'
   number: 25
 
-- citation: 'W. Guo†, Y. Wu†, C. Xie, X. Tan, Z. Lu<sup>*</sup>, H. Li<sup>*</sup>, Covalent Au-C contact formation and C-C homocoupling
-reaction from organotin compounds in single-molecule junction, <b>JACS</b>, in press'
+- citation: 'W. Guo†, Y. Wu†, C. Xie, X. Tan, Z. Lu<sup>*</sup>, H. Li<sup>*</sup>, Covalent Au-C Contact Formation and C-C Homocoupling
+Reaction from Organotin Compounds in Single-Molecule Junctions, <b>J. Am. Chem. Soc.</b> 2024, in press'
   number: 24
   image: '/static/img/publications/2024-Guo-JACS-TOC.png'
   links:
@@ -11,7 +11,7 @@ reaction from organotin compounds in single-molecule junction, <b>JACS</b>, in p
       url: 'https://doi.org/10.1021/jacs.4c03925'
 
 - citation: 'J. M. An†, X. Luo†, S. Naskar, D. Wu<sup>*</sup>, C. Herrmann, J. Xia<sup>*</sup>, H. Li<sup>*</sup>,
-Acid-Mediated Modulation of the Conductance of Diazapentalene Molecular Junctions, <b>The Journal of Physical Chemistry Letters</b>, 15, 35, 9037–9042, (2024)'
+Acid-Mediated Modulation of the Conductance of Diazapentalene Molecular Junctions, <b>J. Phys. Chem. Lett.</b> 2024, 15, 35, 9037–9042'
   number: 23
   image: '/static/img/publications/2024-An-JPCL-TOC.png'
   links:
@@ -19,7 +19,7 @@ Acid-Mediated Modulation of the Conductance of Diazapentalene Molecular Junction
       url: 'https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02203'
 
 - citation: 'S. Han†, X. Liang†, I. Razdolski, Y. Bai, H. Li<sup>*</sup>, D. Lei<sup>*</sup>, Optical and charge transport characteristics of
-photoswitching plasmonic molecular systems, <b>Progress in Quantum Electronics</b>, 95, 100517, (2024).'
+photoswitching plasmonic molecular systems, <b>Prog. Quantum Electron.</b> 2024, 95, 100517'
   number: 22
   image: '/static/img/publications/2024-Han-ProgressinQuantumElectronics-TOC.png'
   pdf: '/static/pdf/2024-Han-ProginQuanElec.pdf'
@@ -27,7 +27,7 @@ photoswitching plasmonic molecular systems, <b>Progress in Quantum Electronics</
     - name: "Link"
       url: 'https://doi.org/10.1016/j.pquantelec.2024.100517'
 
-- citation: 'T. A. Su<sup>*</sup>, M. S. Inkpen<sup>*</sup>, H. Li<sup>*</sup>, Themed Collection on Molecular Scale Electronics, <b>Journal of Materials Chemistry C</b>, 12, 7830-7832, (2024).'
+- citation: 'T. A. Su<sup>*</sup>, M. S. Inkpen<sup>*</sup>, H. Li<sup>*</sup>, Themed Collection on Molecular Scale Electronics, <b>J. Mater. Chem. C</b> 2024, 12, 7830-7832'
   number: 21
   pdf: '/static/pdf/2024-Su-JMCC.pdf'
   links:
@@ -36,7 +36,7 @@ photoswitching plasmonic molecular systems, <b>Progress in Quantum Electronics</
     - name: "Themed collection: Molecular Scale Electronics"
       url: 'https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=tc&themeid=4b043c97-64fb-48b3-b3ab-7d5dedad9889'
 
-- citation: 'W. Guo, T. Quainoo, Z. F. Liu, H. Li<sup>*</sup>, Robust Binding between Secondary Amines and Au Electrodes, <b>Chemical Communications</b>, 60, 3393-3396, (2024).'
+- citation: 'W. Guo, T. Quainoo, Z. F. Liu, H. Li<sup>*</sup>, Robust Binding between Secondary Amines and Au Electrodes, <b>Chem. Commun.</b> 2024, 60, 3393-3396'
   number: 20
   image: '/static/img/publications/2024-Guo-ChemComm-TOC.png'
   pdf: '/static/pdf/2024-Guo-ChemComm.pdf'
@@ -50,7 +50,7 @@ photoswitching plasmonic molecular systems, <b>Progress in Quantum Electronics</
       url: 'https://pubs.rsc.org/en/content/articlepdf/2024/cc/d4cc90101k?page=search'
 
 - citation: 'B. Wu, W. Guo, J. M. An, H. Li<sup>*</sup>, Control of Molecular Conductance by pH,
-<b>Journal of Materials Chemistry C</b>, 10, 13483-13498, (2022).'
+<b>J. Mater. Chem. C</b> 2022, 10, 13483-13498'
   number: 19
   image: '/static/img/publications/2022-Wu-JMCC-TOC.png'
   pdf: '/static/pdf/2022-Wu-JMaterChemC.pdf'
@@ -61,8 +61,8 @@ photoswitching plasmonic molecular systems, <b>Progress in Quantum Electronics</
       url: 'https://pubs.rsc.org/en/content/articlehtml/2022/tc/d2tc90175g?page=search'
 
 - citation: 'H. Gamper†, H. Li†, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
-Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift-Suppressor tRNA, <b>Nature Communications</b>,
-12(1), 1-18 (2021).'
+Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift-Suppressor tRNA, <b>Nature Commun.</b>
+2021, 12, 1, 1-18'
   number: 18
   pdf: '/static/pdf/2021-HowardLi-NatComm.pdf'
   si: '/static/pdf/2021-HowardLi-NatComm-SI.pdf'
@@ -71,8 +71,8 @@ Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift
       url: 'https://www.nature.com/articles/s41467-020-20373-z'
 
 - citation: 'M. Garner†, H. Li†, M. Neupane†, Q. Zou, T. Liu, T. A. Su, Z. Shangguan, D. W. Paley, F. Ng, S. Xiao, C. Nuckolls, L.
-Venkataraman, G. C. Solomon, Permethylation Introduces Destructive Quantum Interference in Saturated Silanes, <b>JACS</b>,
-141 (39), 15471-15476 (2019).'
+Venkataraman, G. C. Solomon, Permethylation Introduces Destructive Quantum Interference in Saturated Silanes, <b>J. Am. Chem. Soc.</b>
+2019, 141, 39, 15471-15476'
   number: 17
   pdf: '/static/pdf/2019-Garner-JACS.pdf'
   si: '/static/pdf/2019-Garner-JACS-SI.pdf'
@@ -81,7 +81,7 @@ Venkataraman, G. C. Solomon, Permethylation Introduces Destructive Quantum Inter
       url: 'https://pubs.acs.org/doi/10.1021/jacs.9b06965'
 
 - citation: 'M. S. Inkpen, Z.-F. Liu, H. Li, L. Campos, J. B. Neaton, L. Venkataraman, Non-chemisorbed gold-sulfur binding prevails in
-self-assembled monolayers, <b>Nature Chemistry</b>, 11 (4), 351-358 (2019).'
+self-assembled monolayers, <b>Nature Chem.</b> 2019, 11, 4, 351-358'
   number: 16
   pdf: '/static/pdf/2019-Inkpen-NatureChem.pdf'
   si: '/static/pdf/2019-Inkpen-NatureChem-SI.pdf'
@@ -92,8 +92,8 @@ self-assembled monolayers, <b>Nature Chemistry</b>, 11 (4), 351-358 (2019).'
       url: 'https://www.nature.com/articles/s41578-019-0094-3.epdf?shared_access_token=GnL0zAOInhEq1Pv2Nxwd0NRgN0jAjWel9jnR3ZoTv0PYxnTh2UgWvSZ7bATuqLr2qxJGZsCl2AA-TfJxSQz8ZTU1fznaOa0F61r6BkV8OnpjEenzbcpVh6RQG7O9l4lpPX5ruklpsD-KMVLCcTcNPg%3D%3D'
 
 - citation: 'H. Li†, M. Garner†, Z. Shangguan†, Y. Chen, Q. Zheng, T. Su, M. Neupane, T. Liu, M. Steigerwald, F. Ng, C. Nuckolls, S.
-Xiao, G. Solomon, L. Venkataraman, Large Variations in Single Molecule Conductance of Cyclic and Bicyclic Silanes, <b>JACS</b>,
-140 (44), 15080-15088 (2018).'
+Xiao, G. Solomon, L. Venkataraman, Large Variations in Single Molecule Conductance of Cyclic and Bicyclic Silanes, <b>J. Am. Chem. Soc.</b>
+2018, 140, 44, 15080-15088'
   number: 15
   pdf: '/static/pdf/2018-Li-JACS.pdf'
   si: '/static/pdf/2018-Li-JACS-SI.pdf'
@@ -102,8 +102,8 @@ Xiao, G. Solomon, L. Venkataraman, Large Variations in Single Molecule Conductan
       url: 'https://pubs.acs.org/doi/10.1021/jacs.8b10296'
 
 - citation: 'M. H. Garner†, H. Li†, Y. Chen†. A. Su, Z. Shangguan, D. W. Paley, T. Liu, F. Ng, H. Li, S. Xiao, C. Nuckolls, L. Venkataraman,
-G. C. Solomon, Comprehensive Suppression of Single-Molecule Conductance using Destructive σ-interference, <b>Nature</b>,
-558, 415-419 (2018).'
+G. C. Solomon, Comprehensive Suppression of Single-Molecule Conductance using Destructive σ-interference, <b>Nature</b> 2018,
+558, 415-419'
   number: 14
   pdf: '/static/pdf/2018-GarnerLi-Nature.pdf'
   links:
@@ -123,7 +123,7 @@ G. C. Solomon, Comprehensive Suppression of Single-Molecule Conductance using De
 
 - citation: 'H. Li†, T. A. Su†, M. Camarasa-Gómez†, D. Hernangómez-Pérez, S. E. Henn, V. Pokorný, R. Korytár, M. L. Steigerwald,
 C. Nuckolls, F. Evers, L. Venkataraman, Silver Makes Better Electrical Contacts to Thiol Terminated Silanes than Gold,
-<b>Angewandte Chemie</b>, 56, (45), 14145-14148 (2017).'
+<b>Angew. Chem. Int. Ed.</b> 2017, 56, 45, 14145-14148'
   number: 13
   pdf: '/static/pdf/2017-Li-Angewandte.pdf'
   si: '/static/pdf/2017-Li-Angewandte-SI.pdf'
@@ -132,7 +132,7 @@ C. Nuckolls, F. Evers, L. Venkataraman, Silver Makes Better Electrical Contacts 
       url: 'http://onlinelibrary.wiley.com/doi/10.1002/anie.201708524/full'
 
 - citation: 'H. Li†, M. Garner†, T. Su†, A. Jensen, M. Inkpen, M.L. Steigerwald, L. Venkataraman, G. Solomon, C. Nuckolls, Extreme
-Conductance Suppression in Molecular Siloxanes, <b>JACS</b>, 139 (30), 10212-10215 (2017).'
+Conductance Suppression in Molecular Siloxanes, <b>J. Am. Chem. Soc.</b>, 2017, 139, 30, 10212-10215'
   number: 12
   pdf: '/static/pdf/2017-Li-JACS.pdf'
   si: '/static/pdf/2017-Li-JACS-SI.pdf'
@@ -149,7 +149,7 @@ Conductance Suppression in Molecular Siloxanes, <b>JACS</b>, 139 (30), 10212-102
       url: 'https://nplus1.ru/news/2017/07/29/worst-conductor-best-insulator'
 
 - citation: 'T. Su, H. Li, R. Klausen, N. Kim, M. Neupane, J. Leighton, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Silane and
-Germane Molecular Electronics, <b>Accounts of Chemical Research</b>, 50 (4), 1088-1095 (2017).'
+Germane Molecular Electronics, <b>Acc. Chem. Res.</b> 2017, 50, 4, 1088-1095'
   number: 11
   pdf: '/static/pdf/2017-Su-Accounts.pdf'
   links:
@@ -157,7 +157,7 @@ Germane Molecular Electronics, <b>Accounts of Chemical Research</b>, 50 (4), 108
       url: 'http://pubs.acs.org/doi/abs/10.1021/acs.accounts.7b00059'
 
 - citation: 'H. Li, N. Kim, T. Su, M. L. Steigerwald, C. Nuckolls, P. Darancet, J. Leighton, L. Venkataraman, Mechanism for Si-Si Bond
-Rupture in Single Molecule Junctions, <b>JACS</b>, 138 (49), 16159-16164 (2016).'
+Rupture in Single Molecule Junctions, <b>J. Am. Chem. Soc.</b> 2016, 138, 49, 16159-16164'
   number: 10
   image: '/static/img/publications/2016-Li-JACS-cover.png'
   pdf: '/static/pdf/2016-Li-JACS.pdf'
@@ -167,7 +167,7 @@ Rupture in Single Molecule Junctions, <b>JACS</b>, 138 (49), 16159-16164 (2016).
       url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.6b10700'
 
 - citation: 'N. Kim, H. Li, L. Venkataraman, J. Leighton, High-Conductance Pathways in Ring-Strained Disilanes by Way of Direct
-σ-Si-Si to Au Coordination, <b>JACS</b>, 138 (36), 11505-11508 (2016).'
+σ-Si-Si to Au Coordination, <b>J. Am. Chem. Soc.</b> 2016, 138, 36, 11505-11508'
   number: 9
   pdf: '/static/pdf/2016-Kim-JACS.pdf'
   si: '/static/pdf/2016-Kim-JACS-SI.pdf'
@@ -176,7 +176,7 @@ Rupture in Single Molecule Junctions, <b>JACS</b>, 138 (49), 16159-16164 (2016).
       url: 'https://pubs.acs.org/doi/abs/10.1021/jacs.6b07825'
 
 - citation: 'T. Su†, H. Li†, R. Klausen, J. R. Widawsky, A. Batra, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Tuning Conductance
-in π–σ–π Single-Molecule Wires, <b>JACS</b>, 138 (24), 7791-7795 (2016).'
+in π–σ–π Single-Molecule Wires, <b>J. Am. Chem. Soc.</b> 2016, 138, 24, 7791-7795'
   number: 8
   pdf: '/static/pdf/2016-Su-JACS.pdf'
   si: '/static/pdf/2016-Su-JACS-SI.pdf'
@@ -185,8 +185,8 @@ in π–σ–π Single-Molecule Wires, <b>JACS</b>, 138 (24), 7791-7795 (2016).'
       url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.6b04394'
 
 - citation: 'H. Li†, M. Garner†, Z. Shangguan†, T. Su, M. Neupane, P. Li, A. Velian, M. L. Steigerwald, S. Xiao, C. Nuckolls, G. Solomon,
-L. Venkataraman, Conformations of Cyclopentasilane Stereoisomers Control Molecular Junction Conductance, <b>Chemical
-Science</b>, 7, 5657-5662 (2016)'
+L. Venkataraman, Conformations of Cyclopentasilane Stereoisomers Control Molecular Junction Conductance, <b>Chem.
+Sci.</b> 2016, 7, 5657-5662'
   number: 7
   image: '/static/img/publications/2016-Li-ChemicalScience-cover.png'
   pdf: '/static/pdf/2016-Li-ChemicalScience.pdf'
@@ -196,7 +196,7 @@ Science</b>, 7, 5657-5662 (2016)'
       url: 'http://pubs.rsc.org/en/content/articlelanding/2016/sc/c6sc01360k#!divAbstract'
 
 - citation: 'T. Su†, H. Li†, V. Zhang, M. Neupane, A. Batra, R. S. Klausen, B. Kumar, M. L. Steigerwald, L. Venkataraman, C. Nuckolls,
-Single-Molecule Conductance in Atomically Precise Germanium Wires, <b>JACS</b>, 137 (38), 12400-12405 (2015).'
+Single-Molecule Conductance in Atomically Precise Germanium Wires, <b>J. Am. Chem. Soc.</b> 2015, 137, 38, 12400-12405'
   number: 6
   pdf: '/static/pdf/2015-SuLi-JACS.pdf'
   si: '/static/pdf/2015-SuLi-JACS-SI.pdf'
@@ -204,8 +204,8 @@ Single-Molecule Conductance in Atomically Precise Germanium Wires, <b>JACS</b>, 
     - name: "Link"
       url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.5b08155'
 
-- citation: 'H. Li, T. Su, M. L. Steigerwald, C. Nuckolls, L. Venkataraman, Electric Field Breakdown in Single Molecule Junctions, <b>JACS</b>,
-137 (15), 5028-5033 (2015).'
+- citation: 'H. Li, T. Su, M. L. Steigerwald, C. Nuckolls, L. Venkataraman, Electric Field Breakdown in Single Molecule Junctions, <b>J. Am. Chem. Soc.</b>
+2015, 137, 15, 5028-5033'
   number: 5
   image: '/static/img/publications/2015-Li-JACS-cover.png'
   pdf: '/static/pdf/2015-Li-JACS.pdf'
@@ -215,7 +215,7 @@ Single-Molecule Conductance in Atomically Precise Germanium Wires, <b>JACS</b>, 
       url: 'http://pubs.acs.org/doi/abs/10.1021/ja512523r'
 
 - citation: 'T. Su, H. Li, M. L. Steigerwald, L. Venkataraman, C. Nuckolls, Stereoelectronic Switching in Single-Molecule Junctions,
-<b>Nature Chemistry</b>, 7, 215-220 (2015).'
+<b>Nature Chem.</b> 2015, 7, 215-220'
   number: 4
   pdf: '/static/pdf/2015-Su-NatureChem.pdf'
   si: '/static/pdf/2015-Su-NatureChem-SI.pdf'
@@ -228,7 +228,7 @@ Single-Molecule Conductance in Atomically Precise Germanium Wires, <b>JACS</b>, 
       url: 'https://phys.org/news/2015-02-electronic-based-stereoisomerism.html'
 
 - citation: 'R. Klausen, J. Widawsky, T. Su, H. Li, M.L. Steigerwald, L. Venkataraman, C. Nuckolls, Evaluating Atomic Components in
-Fluorene Circuits, <b>Chemical Science</b>, 5, 1561-1564 (2014).'
+Fluorene Circuits, <b>Chem. Sci.</b> 2014, 5, 1561-1564'
   number: 3
   pdf: '/static/pdf/2014-Klausen-ChemSci.pdf'
   si: '/static/pdf/2014-Klausen-ChemSci-SI.pdf'
@@ -237,7 +237,7 @@ Fluorene Circuits, <b>Chemical Science</b>, 5, 1561-1564 (2014).'
       url: 'https://pubs.rsc.org/en/content/articlelanding/2014/sc/c4sc00064a#!divAbstract'
 
 - citation: 'W. Chen, H. Li, J. R. Widawsky, C. Appayee, L. Venkataraman, R. Breslow, Aromaticity Decreases Single-Molecule Junction
-Conductance, <b>JACS</b>, 136, 918-920 (2014).'
+Conductance, <b>J. Am. Chem. Soc.</b> 2014, 136, 918-920'
   number: 2
   pdf: '/static/pdf/2014-Chen-JACS.pdf'
   si: '/static/pdf/2014-Chen-JACS-SI.pdf'
@@ -246,7 +246,7 @@ Conductance, <b>JACS</b>, 136, 918-920 (2014).'
       url: 'http://pubs.acs.org/doi/abs/10.1021/ja411143s'
 
 - citation: 'T. Su, J. Widawsky, H. Li, R. Klausen, J. Leighton, M. Steigerwald, L. Venkataraman, C. Nuckolls, Silicon Ring Strain Creates
-High-Conductance Pathways in Single-Molecule Circuits, <b>JACS</b>, 135, 18331 (2013)'
+High-Conductance Pathways in Single-Molecule Circuits, <b>J. Am. Chem. Soc.</b> 2013, 135, 49, 18331–18334'
   number: 1
   pdf: '/static/pdf/2013-Su-JACS.pdf'
   si: '/static/pdf/2013-Su-JACS-SI.pdf'
