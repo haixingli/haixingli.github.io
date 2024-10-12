@@ -3,7 +3,7 @@ Solomon<sup>*</sup>, Improving single-molecule conductance measurements with cha
   number: 25
 
 - citation: 'W. Guo†, Y. Wu†, C. Xie, X. Tan, Z. Lu<sup>*</sup>, H. Li<sup>*</sup>, Covalent Au-C Contact Formation and C-C Homocoupling
-Reaction from Organotin Compounds in Single-Molecule Junctions, <b>J. Am. Chem. Soc.</b> 2024, in press'
+Reaction from Organotin Compounds in Single-Molecule Junctions, <b>J. Am. Chem. Soc.</b> 2024, 146, 39, 26687–26693'
   number: 24
   image: '/static/img/publications/2024-Guo-JACS-TOC.png'
   links:
@@ -132,7 +132,7 @@ C. Nuckolls, F. Evers, L. Venkataraman, Silver Makes Better Electrical Contacts 
       url: 'http://onlinelibrary.wiley.com/doi/10.1002/anie.201708524/full'
 
 - citation: 'H. Li†, M. Garner†, T. Su†, A. Jensen, M. Inkpen, M.L. Steigerwald, L. Venkataraman, G. Solomon, C. Nuckolls, Extreme
-Conductance Suppression in Molecular Siloxanes, <b>J. Am. Chem. Soc.</b>, 2017, 139, 30, 10212-10215'
+Conductance Suppression in Molecular Siloxanes, <b>J. Am. Chem. Soc.</b> 2017, 139, 30, 10212-10215'
   number: 12
   pdf: '/static/pdf/2017-Li-JACS.pdf'
   si: '/static/pdf/2017-Li-JACS-SI.pdf'
