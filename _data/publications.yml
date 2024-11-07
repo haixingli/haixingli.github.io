@@ -1,3 +1,7 @@
+
+- citation: 'Y. Cheng, J. Wang, Y. Shen, H. Li<sup>*</sup>, Impact of protonation on the charge transport across diphenylamine, submitted'
+  number: 26
+
 - citation: 'J. M. Hamill<sup>*</sup>, W. Bro-Jørgensen, Z. Balogh, H. Li, S. Leitherer, D. H. Solomon, A. Halbritter, G. C.
 Solomon<sup>*</sup>, Improving single-molecule conductance measurements with change point detection from the econometrics toolbox, submitted'
   number: 25
@@ -6,6 +10,7 @@ Solomon<sup>*</sup>, Improving single-molecule conductance measurements with cha
 Reaction from Organotin Compounds in Single-Molecule Junctions, <b>J. Am. Chem. Soc.</b> 2024, 146, 39, 26687–26693'
   number: 24
   image: '/static/img/publications/2024-Guo-JACS-TOC.png'
+  si: '/static/pdf/2024-Guo-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'https://doi.org/10.1021/jacs.4c03925'
@@ -16,6 +21,7 @@ Reaction from Organotin Compounds in Single-Molecule Junctions, <b>J. Am. Chem. 
 Acid-Mediated Modulation of the Conductance of Diazapentalene Molecular Junctions, <b>J. Phys. Chem. Lett.</b> 2024, 15, 35, 9037–9042'
   number: 23
   image: '/static/img/publications/2024-An-JPCL-TOC.png'
+    si: '/static/pdf/2024-An-JPCL-SI.pdf'
   links:
     - name: "Link"
       url: 'https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02203'
