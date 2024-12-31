@@ -109,7 +109,7 @@ Xiao, G. Solomon, L. Venkataraman, Large Variations in Single Molecule Conductan
     - name: "Link"
       url: 'https://pubs.acs.org/doi/10.1021/jacs.8b10296'
 
-- citation: 'M. H. Garner†, H. Li†, Y. Chen†. A. Su, Z. Shangguan, D. W. Paley, T. Liu, F. Ng, H. Li, S. Xiao, C. Nuckolls, L. Venkataraman,
+- citation: 'M. H. Garner†, H. Li†, Y. Chen†, T. A. Su, Z. Shangguan, D. W. Paley, T. Liu, F. Ng, H. Li, S. Xiao, C. Nuckolls, L. Venkataraman,
 G. C. Solomon, Comprehensive Suppression of Single-Molecule Conductance using Destructive σ-interference, <b>Nature</b> 2018,
 558, 415-419'
   number: 14
@@ -212,7 +212,7 @@ Single-Molecule Conductance in Atomically Precise Germanium Wires, <b>J. Am. Che
     - name: "Link"
       url: 'http://pubs.acs.org/doi/abs/10.1021/jacs.5b08155'
 
-- citation: 'H. Li, T. Su, M. L. Steigerwald, C. Nuckolls, L. Venkataraman, Electric Field Breakdown in Single Molecule Junctions, <b>J. Am. Chem. Soc.</b>
+- citation: 'H. Li, T. Su, V. Zhang, M. L. Steigerwald, C. Nuckolls, L. Venkataraman, Electric Field Breakdown in Single Molecule Junctions, <b>J. Am. Chem. Soc.</b>
 2015, 137, 15, 5028-5033'
   number: 5
   image: '/static/img/publications/2015-Li-JACS-cover.png'

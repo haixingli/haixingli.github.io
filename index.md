@@ -17,6 +17,9 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 
 <p align="center"><code style="color : lightblue"> 2024 </code></p>
 
+*<code style="color : lightblue">November 2024.</code>*
+The lab welcomes a new research assistant Yidong Xiao.
+
 *<code style="color : lightblue">September 2024.</code>*
 Weiyi's work on covalent Au-C contact formation and C-C homocoupling reaction in single-molecule junctions in collaboration with Yuhao from [Zhenpin Lu's group](https://staffweb1.cityu.edu.hk/zhenpilu/index.htm) is now published in JACS!
 
