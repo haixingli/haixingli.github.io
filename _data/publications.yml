@@ -8,8 +8,12 @@ Distinguishing Quantum Interference in Meta-connected Molecular Systems, submitt
 Solomon<sup>*</sup>, Improving single-molecule conductance measurements with change point detection from the econometrics toolbox, submitted'
   number: 26
 
-- citation: 'Y. Cheng, J. Wang, Y. Shen<sup>*</sup>, H. Li<sup>*</sup>, Protonation-independent Charge Transport across Diphenylamine Single-molecule Junctions, <b>J. Phys. Chem. Lett.</b>, in press'
+- citation: 'Y. Cheng, J. Wang, Y. Shen<sup>*</sup>, H. Li<sup>*</sup>, Protonation-Independent Charge Transport across Diphenylamine Single-Molecule Junctions, <b>J. Phys. Chem. Lett.</b>, in press'
   number: 25
+  image: '/static/img/publications/2024-Cheng-JPCL-TOC.png'
+  links:
+    - name: "Link"
+      url: 'https://doi.org/10.1021/acs.jpclett.4c03299'
 
 - citation: 'W. Guo†, Y. Wu†, C. Xie, X. Tan, Z. Lu<sup>*</sup>, H. Li<sup>*</sup>, Covalent Au-C Contact Formation and C-C Homocoupling
 Reaction from Organotin Compounds in Single-Molecule Junctions, <b>J. Am. Chem. Soc.</b> 2024, 146, 39, 26687–26693'

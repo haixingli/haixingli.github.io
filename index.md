@@ -16,6 +16,9 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 
 <p align="center"><code style="color : lightblue"> 2025 </code></p>
 
+*<code style="color : lightblue">February 2025.</code>*
+The lab welcomes a new undergraduate student Ho tak To.
+
 *<code style="color : lightblue">January 2025.</code>*
 Yaran's work on protonation-independent charge transport across diphenylamine single-molecule junctions is now published in The Journal of Physical Chemistry Letters!
 
