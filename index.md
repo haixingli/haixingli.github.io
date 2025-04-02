@@ -16,6 +16,13 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 
 <p align="center"><code style="color : lightblue"> 2025 </code></p>
 
+*<code style="color : lightblue">June 2024.</code>*
+The lab contributed 3 oral and 1 poster presentations at the ACS meeting in San Diego.
+
+<p align="center">
+    <img height="300px" src="static/img/news/2025.03ACSmeeting.jpg" alt="2025 ACS">
+</p>
+
 *<code style="color : lightblue">February 2025.</code>*
 The lab welcomes a new undergraduate student Ho tak To.
 
