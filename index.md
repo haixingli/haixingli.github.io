@@ -16,7 +16,7 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 
 <p align="center"><code style="color : lightblue"> 2025 </code></p>
 
-*<code style="color : lightblue">June 2024.</code>*
+*<code style="color : lightblue">March 2025.</code>*
 The lab contributed 3 oral and 1 poster presentations at the ACS meeting in San Diego.
 
 <p align="center">
@@ -45,7 +45,7 @@ We celebrate Song's passing of his qualifying exam.
 Xueling (joint with the Lei group), Yihao, and Yaran start their PhDs in the group! The lab welcomes a new undergraduate student Shaarib.
 
 *<code style="color : lightblue">August 2024.</code>*
-Our collaboration with the group of Jianlong Xia and [group of Carmen Herrmann](https://www.chemie.uni-hamburg.de/en/institute/ac/arbeitsgruppen/herrmann.html) is out in The Journal of Physical Chemistry Letters.
+Our collaboration with the [group of Jianlong Xia](https://www.jianlongxia.cn/) and [group of Carmen Herrmann](https://www.chemie.uni-hamburg.de/en/institute/ac/arbeitsgruppen/herrmann.html) is out in The Journal of Physical Chemistry Letters.
 
 *<code style="color : lightblue">June 2024.</code>*
 Farewell, Yao! Good luck on your PhD study at the University of Notre Dame.
