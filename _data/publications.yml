@@ -1,7 +1,5 @@
 
-- citation: 'W. Guo, Y. Zhang, H. Li<sup>*</sup>,
-Linking molecules to metal surfaces with covalent bonds, (review) submitted'
-  number: 29
+
 
 - citation: 'S. Han, J. Zhao, D. Wu, J. Xia<sup>*</sup>, H. Li<sup>*</sup>,
 Host-guest interactions enhance charge transport across single cyclodextrin/azobenzene complex junction, submitted'
@@ -11,9 +9,15 @@ Host-guest interactions enhance charge transport across single cyclodextrin/azob
 Distinguishing Quantum Interference in Meta-connected Molecular Systems, submitted'
   number: 27
 
-- citation: 'J. M. Hamill<sup>*</sup>, W. Bro-Jørgensen, Z. Balogh, H. Li, S. Leitherer, D. H. Solomon, A. Halbritter, G. C.
-Solomon<sup>*</sup>, Improving single-molecule conductance measurements with change point detection from the econometrics toolbox, submitted'
+- citation: 'W. Guo, Y. Zhang, H. Li<sup>*</sup>,
+Linking Molecules to Metal Surfaces with Covalent bonds, <b>Phys. Chem. Chem. Phys.</b> 2025, in press'
   number: 26
+  image: '/static/img/publications/2025-Guo-PCCP-TOC.png'
+  links:
+    - name: "Link"
+      url: ''
+    - name: "Invited review article for 2025 Emerging Investigators Issue"
+      url: ''
 
 - citation: 'Y. Cheng, J. Wang, Y. Shen<sup>*</sup>, H. Li<sup>*</sup>, Protonation-Independent Charge Transport across Diphenylamine Single-Molecule Junctions, <b>J. Phys. Chem. Lett.</b> 2025, 16, 5, 1247-1252'
   number: 25

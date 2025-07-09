@@ -21,4 +21,4 @@ She worked as a postdoctoral fellow and later a Charles H. Revson Senior Fellow 
 Ruben Gonzalez](http://www.columbia.edu/cu/chemistry/groups/gonzalez/index.html) at Columbia University studying
 mechanisms of ribosomal frameshifting from 2017 to 2021.
 Haixing Li is currently an Assistant Professor in the Department of Physics at City University of Hong Kong.
-Courses that she teaches at CityU include General Physics III, Advanced Measurement and Instrumentation, Physics in Medicine, and Advanced Imaging Physics.
+Courses that she taught at CityUHK include General Physics III, Physics in Medicine, and Advanced Imaging Physics. Currently she is teaching Statistical Mechanics and Advanced Measurement and Instrumentation.

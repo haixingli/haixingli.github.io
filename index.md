@@ -16,6 +16,9 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 
 <p align="center"><code style="color : lightblue"> 2025 </code></p>
 
+*<code style="color : lightblue">July 2025.</code>*
+Weiyi and Yihao's review paper on linking molecules to metal surfaces with covalent bonds is now published in Physical Chemistry Chemical Physics.
+
 *<code style="color : lightblue">March 2025.</code>*
 The lab contributed 3 oral and 1 poster presentations at the ACS meeting in San Diego.
 
