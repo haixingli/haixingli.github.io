@@ -1,6 +1,6 @@
 ---
 name: Weiyi Guo
-image: /static/img/members/Weiyi.jpeg
+image: /static/img/members/Weiyi_2025.jpg
 position: Ph.D. Student
 order: 2
 email: weiyiguo2-c@my.cityu.edu.hk

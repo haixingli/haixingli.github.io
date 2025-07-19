@@ -3,17 +3,23 @@
 
 - citation: 'S. Han, J. Zhao, D. Wu, J. Xia<sup>*</sup>, H. Li<sup>*</sup>,
 Host-guest interactions enhance charge transport across single cyclodextrin/azobenzene complex junction, submitted'
-  number: 28
+  number: 29
 
 - citation: 'X. Xu, M. Adeyemo, L. Xiong, T. Quainoo, D. Lei, D. Wu<sup>*</sup>, J. Xia<sup>*</sup>, Z. Liu<sup>*</sup>, H. Li<sup>*</sup>,
 Distinguishing Quantum Interference in Meta-connected Molecular Systems, submitted'
+  number: 28
+
+- citation: 'E. M. Kimbrough, H. A. Nguyen, H. Li, J. M. Mattingly, N. A. Bailey, W. Ning, H. Gamper, Y. M. Hou, R. L. Gonzalez, Jr.<sup>*</sup>, and C. M. Dunham<sup>*</sup>,
+An RNA Modification Prevents Extended Codon-anticodon Interactions from Facilitating +1 Frameshifting, <b>Nat. Commun.</b> 2025, in press'
   number: 27
 
 - citation: 'W. Guo, Y. Zhang, H. Li<sup>*</sup>,
-Linking Molecules to Metal Surfaces with Covalent bonds, <b>Phys. Chem. Chem. Phys.</b> 2025, in press'
+Linking Molecules to Metal Surfaces with Covalent Bonds, <b>Phys. Chem. Chem. Phys.</b> 2025, invited review, in press'
   number: 26
   image: '/static/img/publications/2025-Guo-PCCP-TOC.png'
-
+  links:
+    - name: "Link"
+      url: 'https://doi.org/10.1039/D5CP01977J'
 
 
 - citation: 'Y. Cheng, J. Wang, Y. Shen<sup>*</sup>, H. Li<sup>*</sup>, Protonation-Independent Charge Transport across Diphenylamine Single-Molecule Junctions, <b>J. Phys. Chem. Lett.</b> 2025, 16, 5, 1247-1252'
