@@ -10,11 +10,18 @@ Distinguishing Quantum Interference in Meta-connected Molecular Systems, submitt
   number: 28
 
 - citation: 'E. M. Kimbrough, H. A. Nguyen, H. Li, J. M. Mattingly, N. A. Bailey, W. Ning, H. Gamper, Y. M. Hou, R. L. Gonzalez, Jr.<sup>*</sup>, and C. M. Dunham<sup>*</sup>,
-An RNA Modification Prevents Extended Codon-anticodon Interactions from Facilitating +1 Frameshifting, <b>Nat. Commun.</b> 2025, in press'
+An RNA Modification Prevents Extended Codon-anticodon Interactions from Facilitating +1 Frameshifting, <b>Nat. Commun.</b> 2025, 16, 7392'
   number: 27
+  image: '/static/img/publications/2025-Kimbrough-NatComm-TOC.png'
+  pdf: '/static/pdf/2025-Kimbrough-NatComm.pdf'
+  si: '/static/pdf/2025-Kimbrough-NatComm-SI.pdf'
+  links:
+    - name: "Link"
+      url: 'https://www.nature.com/articles/s41467-025-62342-4'
+
 
 - citation: 'W. Guo, Y. Zhang, H. Li<sup>*</sup>,
-Linking Molecules to Metal Surfaces with Covalent Bonds, <b>Phys. Chem. Chem. Phys.</b> 2025, invited review, in press'
+Linking Molecules to Metal Surfaces with Covalent Bonds, <b>Phys. Chem. Chem. Phys.</b> 2025, 27, 16717-16732'
   number: 26
   image: '/static/img/publications/2025-Guo-PCCP-TOC.png'
   links:
@@ -35,6 +42,7 @@ Linking Molecules to Metal Surfaces with Covalent Bonds, <b>Phys. Chem. Chem. Ph
 Reaction from Organotin Compounds in Single-Molecule Junctions, <b>J. Am. Chem. Soc.</b> 2024, 146, 39, 26687–26693'
   number: 24
   image: '/static/img/publications/2024-Guo-JACS-TOC.png'
+  pdf: '/static/pdf/2024-Guo-JACS.pdf'
   si: '/static/pdf/2024-Guo-JACS-SI.pdf'
   links:
     - name: "Link"
@@ -46,6 +54,7 @@ Reaction from Organotin Compounds in Single-Molecule Junctions, <b>J. Am. Chem. 
 Acid-Mediated Modulation of the Conductance of Diazapentalene Molecular Junctions, <b>J. Phys. Chem. Lett.</b> 2024, 15, 35, 9037–9042'
   number: 23
   image: '/static/img/publications/2024-An-JPCL-TOC.png'
+  pdf: '/static/pdf/2024-An-JPCL.pdf'
   si: '/static/pdf/2024-An-JPCL-SI.pdf'
   links:
     - name: "Link"
@@ -95,7 +104,7 @@ photoswitching plasmonic molecular systems, <b>Prog. Quantum Electron.</b> 2024,
 
 - citation: 'H. Gamper†, H. Li†, I. Masuda, M. Szanti-Kis, T. Christian, A. B. Conn, G. Blaha, E. J. Petersson, R. L. Gonzalez, Jr, Y. M.
 Hou, Insights into Genome Recoding from the Mechanism of a Classic +1-Frameshift-Suppressor tRNA, <b>Nature Commun.</b>
-2021, 12, 1, 1-18'
+2021, 12, 328'
   number: 18
   pdf: '/static/pdf/2021-HowardLi-NatComm.pdf'
   si: '/static/pdf/2021-HowardLi-NatComm-SI.pdf'
