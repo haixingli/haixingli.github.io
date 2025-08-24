@@ -53,6 +53,12 @@ banner: /static/img/banners/SafetyIllustration_v3.png
             @{{person.twitter}}
           </a> <br>
         {% endif %}
+        {% if person.bluesky %}
+          <a href= "http://bsky.app/profile/{{person.bsky.social}}">
+            <img class="inline-block mem-logo" src="/static/img/logo/bluesky_logo.svg">
+            @{{person.bluesky}}
+          </a> <br>
+        {% endif %}
         {% if person.github %}
           <a href= "http://github.com/{{person.github}}"> {% octicon mark-github %} {{person.github}} </a> <br>
         {% endif %}
