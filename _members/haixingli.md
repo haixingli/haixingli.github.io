@@ -6,7 +6,7 @@ order: 0
 cv: '/li_cv/curriculum-vitae.pdf'
 email: haixinli@cityu.edu.hk
 scholar: AGlgiewAAAAJ
-bluesky: haixingli
+bluesky: haixingli.bsky.social
 orcid: 0000-0002-1383-4907
 status: leader
 startdate: 2021-12-15
