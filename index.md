@@ -8,13 +8,19 @@ banner: static/img/banners/SafetyIllustration_v1.png
 <p align="center">WELCOME TO THE LI LAB IN THE DEPARTMENT OF PHYSICS AT CITY UNIVERSITY OF HONG KONG.
 </p>
 
-The Li Laboratory examines molecules and develops measurement tools at the single molecule level to spark advances in electronics and sustainability.
+The Li Laboratory examines molecules and develops measurement tools at the single-molecule level to spark advances in electronics and sustainability.
 
 ---
 <p align="center"> NEWS </p>
 ---
 
 <p align="center"><code style="color : lightblue"> 2025 </code></p>
+
+*<code style="color : lightblue">August 2025.</code>*
+Weiyi and Yaran both won the Outstanding Academic Performance Award from the School of Graduate Studies, in recognition of their outstanding academic performance in their research studies in the last twelve months. Very well deserved!
+
+*<code style="color : lightblue">August 2025.</code>*
+Haixing receives the National Natural Science Foundation of China Young Scientist Fund Scheme C.
 
 *<code style="color : lightblue">July 2025.</code>*
 Weiyi and Yihao's review paper on linking molecules to metal surfaces with covalent bonds is now published in Physical Chemistry Chemical Physics.
