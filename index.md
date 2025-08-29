@@ -17,6 +17,9 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 <p align="center"><code style="color : lightblue"> 2025 </code></p>
 
 *<code style="color : lightblue">August 2025.</code>*
+Weiyi and Yaran both won the Research Tuition Scholarship from the School of Graduate Studies!
+
+*<code style="color : lightblue">August 2025.</code>*
 Weiyi and Yaran both won the Outstanding Academic Performance Award from the School of Graduate Studies, in recognition of their outstanding academic performance in their research studies in the last twelve months. Very well deserved!
 
 *<code style="color : lightblue">August 2025.</code>*
