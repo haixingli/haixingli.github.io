@@ -16,6 +16,12 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 
 <p align="center"><code style="color : lightblue"> 2025 </code></p>
 
+*<code style="color : lightblue">September 2025.</code>*
+The lab celebrates Yihao's and Yaran's passing of their qualifying exams.
+
+*<code style="color : lightblue">September 2025.</code>*
+Yidong starts his PhD. The lab welcomes new master students Zujun Li, Abdul Mateen Hassan, and Jiakun Song. The lab welcomes a new undergraduate student Audric Martin Tjen.
+
 *<code style="color : lightblue">August 2025.</code>*
 Weiyi and Yaran both won the Research Tuition Scholarship from the School of Graduate Studies!
 
