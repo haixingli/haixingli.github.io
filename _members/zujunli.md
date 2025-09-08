@@ -1,6 +1,6 @@
 ---
 name: Zujun Li
-image: /static/img/members/Zujun.jpg
+image: /static/img/members/Zujun.jpeg
 position: Master Student
 order: 3
 email: zujunli@outlook.com
