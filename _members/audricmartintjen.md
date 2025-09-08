@@ -6,4 +6,3 @@ order: 4
 email: martitjen2-c@my.cityu.edu.hk
 startdate: 2025-09-01
 ---
-Audric is an undergraduate student at City University of Hong Kong.
