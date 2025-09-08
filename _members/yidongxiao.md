@@ -3,7 +3,7 @@ name: Yidong Xiao
 image: /static/img/members/Yidong.jpg
 position: Ph.D. Student
 order: 2
-email:
+email: yidonxiao2-c@my.cityu.edu.hk
 scholar: Z3rQHq8AAAAJ
 orcid: 0009-0005-1707-0608
 startdate: 2024-10-01
