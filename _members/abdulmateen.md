@@ -1,6 +1,6 @@
 ---
 name: Abdul Mateen Hassan
-image: /static/img/members/member.jpg
+image: /static/img/members/Mateen.jpg
 position: Master Student
 order: 3
 email: amhassan3-c@my.cityu.edu.hk
