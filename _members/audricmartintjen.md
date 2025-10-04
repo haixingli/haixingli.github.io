@@ -1,6 +1,6 @@
 ---
 name: Audric Martin Tjen
-image: /static/img/members/member.jpg
+image: /static/img/members/Audric.jpg
 position: Undergraduate Researcher through Research Attachment Scheme
 order: 4
 email: martitjen2-c@my.cityu.edu.hk
