@@ -17,7 +17,7 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 <p align="center"><code style="color : lightblue"> 2025 </code></p>
 
 *<code style="color : lightblue">October 2025.</code>*
-Xueling's first first-author paper on Distinguishing Quantum Interference in Meta-connected Molecular Systems in collaboration with Mose Adeyemo from [Zhenfei Liu's group](https://liugroupwsu.weebly.com/) and Lulu Xiong from [Jianlong Xia's group](https://www.jianlongxia.cn/) is now published in Physical Review B.
+Xueling's first first-author paper on Distinguishing Quantum Interference in Meta-connected Molecular Systems in collaboration with Moses Adeyemo from [Zhenfei Liu's group](https://liugroupwsu.weebly.com/) and Lulu Xiong from [Jianlong Xia's group](https://www.jianlongxia.cn/) is now published in Physical Review B.
 
 *<code style="color : lightblue">September 2025.</code>*
 The lab celebrates Yihao's and Yaran's passing of their qualifying exams.
