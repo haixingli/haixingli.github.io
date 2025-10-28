@@ -12,7 +12,9 @@ Host-guest Interactions Enhance Charge Transport Across Single Cyclodextrin/azob
 Distinguishing Quantum Interference in Meta-connected Molecular Systems, <b>Phys. Rev. B</b> 2025, in press'
   number: 28
   image: '/static/img/publications/2025-Xu-PRB-TOC.png'
-
+  links:
+    - name: "Link"
+      url: 'https://journals.aps.org/prb/abstract/10.1103/tjrz-czl7'
 
 - citation: 'E. M. Kimbrough, H. A. Nguyen, H. Li, J. M. Mattingly, N. A. Bailey, W. Ning, H. Gamper, Y. M. Hou, R. L. Gonzalez, Jr.<sup>*</sup>, and C. M. Dunham<sup>*</sup>,
 An RNA Modification Prevents Extended Codon-anticodon Interactions from Facilitating +1 Frameshifting, <b>Nat. Commun.</b> 2025, 16, 7392'
