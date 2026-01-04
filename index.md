@@ -10,7 +10,7 @@ banner: static/img/banners/SafetyIllustration_v1.png
 
 The Li Laboratory examines molecules and develops measurement tools at the single-molecule level to spark advances in electronics and sustainability.
 
-{% include carousel.html height="40" unit="%" duration="3" filter="static/img/camerarolls" controlposition="90%" indicatorposition="90%" %}
+{% include carousel.html height="40" unit="%" duration="5" filter="img/camerarolls/" controlposition="90%" indicatorposition="90%" %}
 
 ---
 <p align="center"> NEWS </p>
