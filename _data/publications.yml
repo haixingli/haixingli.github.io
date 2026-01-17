@@ -1,8 +1,18 @@
 
+- citation: 'W. Guo,† S. Yao,† X. Xu, T. Lu, C. Xie, Y. Zhang, J. Wang, H. Chen, X. Tan, Y. Shen, H. Li, Captodative
+radicals enable the coexistence of monomer and dimer single-molecule junctions with 100-fold difference in conductance, submitted'
+  number: 31
+  links:
+    - name: "chemrxiv"
+      url: 'https://chemrxiv.org/engage/chemrxiv/article-details/694d0f886e8e74030e8d9503'
 
 - citation: 'Y. Xiao,† C. Xie,† Y.-Q. Kong, G.-P. Zhang<sup>*</sup>, X. Tan<sup>*</sup>, H. Li<sup>*</sup>,
 Imine Linkers Enable the Formation of Robust Single-Molecule Junctions, submitted'
   number: 30
+  links:
+    - name: "chemrxiv"
+      url: 'https://chemrxiv.org/engage/chemrxiv/article-details/694ce40aafb3b11118300f77'
+'
 
 - citation: 'S. Han, J. Zhao, D. Wu, J. Xia<sup>*</sup>, H. Li<sup>*</sup>,
 Host-guest Interactions Enhance Charge Transport Across Single Cyclodextrin/azobenzene Complex Junction, submitted'

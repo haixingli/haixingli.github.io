@@ -2,12 +2,14 @@
 name: Jianming An
 image: /static/img/members/Jianming.jpg
 position: Ph.D. Student
+status: alum
 order: 2
 email: jianminan2-c@my.cityu.edu.hk
 scholar: vxzXN3YAAAAJ
 twitter: Sheldon_JM7
 orcid: 0000-0001-6526-4451
 startdate: 2022-07-01
+enddate: 2025-01-16
 ---
 J.M. An was born and raised in China. He received his B.Sc. in Automation from Bohai University,
   where he spent his time to develop photodetectors in optical image recognition with
