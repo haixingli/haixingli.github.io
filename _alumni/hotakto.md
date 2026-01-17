@@ -2,6 +2,7 @@
 name: Ho tak To
 image: /static/img/members/Hotak.jpg
 position: Undergraduate student
+status: alum
 order: 4
 email: hotakto2-c@my.cityu.edu.hk
 startdate: 2025-02-10
