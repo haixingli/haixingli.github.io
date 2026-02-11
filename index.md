@@ -16,6 +16,15 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 <p align="center"> NEWS </p>
 ---
 
+<p align="center"><code style="color : lightblue"> 2026 </code></p>
+*<code style="color : lightblue">February 2026.</code>*
+The lab went hiking in Tai Po Kau Nature Reserve.
+
+<p align="center">
+    <img height="300px" src="static/img/news/2026.02hiking.png" alt="2026 Feb hiking">
+</p>
+
+
 <p align="center"><code style="color : lightblue"> 2025 </code></p>
 
 *<code style="color : lightblue">October 2025.</code>*
