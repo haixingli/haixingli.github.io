@@ -12,9 +12,9 @@ Imine Linkers Enable the Formation of Robust Single-Molecule Junctions, submitte
 - citation: 'S. Han, J. Zhao, S. Naskar, D. Wu, C. Herrmann, J. Xia<sup>*</sup>, H. Li<sup>*</sup>,
 Host-guest Interactions Enhance Charge Transport Across Single Cyclodextrin/azobenzene Complex Junction, <b>J. Am. Chem. Soc.</b> 2026, in press'
   number: 29
-  image: '/static/img/publications/2026-Song-JACS-TOC.png'
-  pdf: '/static/pdf/2026-Song-JACS.pdf'
-  si: '/static/pdf/2026-Song-JACS-SI.pdf'
+  image: '/static/img/publications/2026-Han-JACS-TOC.png'
+  pdf: '/static/pdf/2026-Han-JACS.pdf'
+  si: '/static/pdf/2026-Han-JACS-SI.pdf'
   links:
     - name: "Link"
       url: 'https://pubs.acs.org/doi/10.1021/jacs.5c20902'
