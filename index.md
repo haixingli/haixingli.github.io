@@ -17,6 +17,10 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 ---
 
 <p align="center"><code style="color : lightblue"> 2026 </code></p>
+
+*<code style="color : lightblue">March 2026.</code>*
+Song's investigation on single host-guest cyclodextrin/azobenzene junctions is accepted for publication in [JACS](https://pubs.acs.org/doi/10.1021/jacs.5c20902). A huge congratulations to Song.
+
 *<code style="color : lightblue">February 2026.</code>*
 The lab went hiking in Tai Po Kau Nature Reserve.
 

@@ -9,9 +9,15 @@ Imine Linkers Enable the Formation of Robust Single-Molecule Junctions, submitte
   number: 30
   chemrxiv: 2026-1q3b8
 
-- citation: 'S. Han, J. Zhao, D. Wu, J. Xia<sup>*</sup>, H. Li<sup>*</sup>,
-Host-guest Interactions Enhance Charge Transport Across Single Cyclodextrin/azobenzene Complex Junction, submitted'
+- citation: 'S. Han, J. Zhao, S. Naskar, D. Wu, C. Herrmann, J. Xia<sup>*</sup>, H. Li<sup>*</sup>,
+Host-guest Interactions Enhance Charge Transport Across Single Cyclodextrin/azobenzene Complex Junction, <b>J. Am. Chem. Soc.</b> 2026, in press'
   number: 29
+  image: '/static/img/publications/2026-Song-JACS-TOC.png'
+  pdf: '/static/pdf/2026-Song-JACS.pdf'
+  si: '/static/pdf/2026-Song-JACS-SI.pdf'
+  links:
+    - name: "Link"
+      url: 'https://pubs.acs.org/doi/10.1021/jacs.5c20902'
 
 - citation: 'X. Xu, M. Adeyemo, L. Xiong, T. Quainoo, D. Lei, D. Wu<sup>*</sup>, J. Xia<sup>*</sup>, Z. Liu<sup>*</sup>, H. Li<sup>*</sup>,
 Distinguishing Quantum Interference in Meta-connected Molecular Systems, <b>Phys. Rev. B</b> 2025, 112(15), 155431'
