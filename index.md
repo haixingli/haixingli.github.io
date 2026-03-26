@@ -19,6 +19,9 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 <p align="center"><code style="color : lightblue"> 2026 </code></p>
 
 *<code style="color : lightblue">March 2026.</code>*
+Yidong's findings of imines as robust chemical linkers for creating Au-molecule-Au junctions, in collaboration with Chaochao from the [Tan Group](https://www.xuefengtan.com/) at CityUHK chemistry and Yaqi from the Zhang Group at Shandong Normal University, in online at [Chemical Communications](https://doi.org/10.1039/D6CC00813E).
+
+*<code style="color : lightblue">March 2026.</code>*
 Song's investigation on single host-guest cyclodextrin/azobenzene junctions is accepted for publication in [JACS](https://pubs.acs.org/doi/10.1021/jacs.5c20902). A huge congratulations to Song.
 
 *<code style="color : lightblue">February 2026.</code>*
