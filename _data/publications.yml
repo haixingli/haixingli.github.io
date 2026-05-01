@@ -1,11 +1,21 @@
 
+- citation: 'Y. Zhang, M. Adeyemo, W. Guo, Z. Liu<sup>*</sup>, H. Li<sup>*</sup>,
+𝝅-𝝅 stacked dimer junctions formed with silver electrodes, submitted'
+  number: 33
+  chemrxiv: 15002574/v1 
+
+- citation: 'Y. Zhang†, Y. Li†, Z. Lu<sup>*</sup>, H. Li<sup>*</sup>,
+Acid-catalyzed rearrangement reaction for single-molecule junction formation, submitted'
+  number: 32
+  chemrxiv:
+
 - citation: 'W. Guo†, S. Yao†, X. Xu, T. Lu, C. Xie, Y. Zhang, J. Wang, H. Chen, X. Tan, Y. Shen<sup>*</sup>, H. Li<sup>*</sup>,
 Captodative Radicals Enable the Coexistence of Monomer and Dimer Single-molecule Junctions with 100-fold Difference in Conductance, submitted'
   number: 31
   chemrxiv: 2026-06tvq
 
 - citation: 'Y. Xiao†, C. Xie†, Y.-Q. Kong, G.-P. Zhang<sup>*</sup>, X. Tan<sup>*</sup>, H. Li<sup>*</sup>,
-Imine Linkers Enable the Formation of Robust Single-Molecule Junctions, <b>Chem. Commun.</b> 2026, in press'
+Imine Linkers Enable the Formation of Robust Single-Molecule Junctions, <b>Chem. Commun.</b> 2026, 62, 8235 - 8239'
   number: 30
   image: '/static/img/publications/2026-Xiao-ChemComm-TOC.png'
   pdf: '/static/pdf/2026-Xiao-ChemComm.pdf'
