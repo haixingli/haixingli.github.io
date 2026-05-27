@@ -5,8 +5,9 @@
   chemrxiv: chemrxiv.15002574/v1
 
 - citation: 'Y. Zhang†, Y. Li†, Z. Lu<sup>*</sup>, H. Li<sup>*</sup>,
-Acid-catalyzed rearrangement reaction for single-molecule junction formation, submitted'
+Acid-catalyzed rearrangement reaction for single-molecule junction formation, <b>Chem. Eur. J.</b> 2026, in press'
   number: 32
+  image: '/static/img/publications/2026-Zhang-ChemEurJ-TOC.png'
   chemrxiv: chemrxiv.15002777/v1
 
 - citation: 'W. Guo†, S. Yao†, X. Xu, T. Lu, C. Xie, Y. Zhang, J. Wang, H. Chen, X. Tan, Y. Shen<sup>*</sup>, H. Li<sup>*</sup>,
