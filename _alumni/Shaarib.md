@@ -1,7 +1,7 @@
 ---
 name: Mohammad Shaarib Ahamed
 image: /static/img/members/Shaarib.jpg
-position: Undergraduate student
+position: Undergraduate final year project
 order: 4
 email: msahamed2-c@my.cityu.edu.hk
 startdate: 2024-09-01

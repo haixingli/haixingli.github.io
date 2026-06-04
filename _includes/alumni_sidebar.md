@@ -52,6 +52,12 @@
     @{{member.twitter}}
     </a> <br>
 {% endif %}
+{% if member.twitter %}
+    <a href= "http://bsky.app/profile/{{person.bluesky}}">
+    <img class="inline-block mem-logo" src="/static/img/logo/bluesky_logo.svg">
+    @{{member.bluesky}}
+    </a> <br>
+{% endif %}
 {% if member.github %}
     <a href= "http://github.com/{{member.github}}"> {% octicon mark-github %} {{member.github}} </a> <br>
 {% endif %}
