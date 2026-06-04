@@ -52,7 +52,7 @@
     @{{member.twitter}}
     </a> <br>
 {% endif %}
-{% if member.twitter %}
+{% if member.bluesky %}
     <a href= "http://bsky.app/profile/{{person.bluesky}}">
     <img class="inline-block mem-logo" src="/static/img/logo/bluesky_logo.svg">
     @{{member.bluesky}}
