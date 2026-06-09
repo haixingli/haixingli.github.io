@@ -8,7 +8,12 @@
 Acid-catalyzed rearrangement reaction for single-molecule junction formation, <b>Chem. Eur. J.</b> 2026, in press'
   number: 32
   image: '/static/img/publications/2026-Zhang-ChemEurJ-TOC.png'
+    pdf: '/static/pdf/2026-Zhang-ChemEurJ.pdf'
+    si: '/static/pdf/2026-Zhang-ChemEurJ-SI.pdf'
   chemrxiv: chemrxiv.15002777/v1
+  links:
+    - name: "Link"
+      url: 'http://doi.org/10.1002/chem.71233'
 
 - citation: 'W. Guo†, S. Yao†, X. Xu, T. Lu, C. Xie, Y. Zhang, J. Wang, H. Chen, X. Tan, Y. Shen<sup>*</sup>, H. Li<sup>*</sup>,
 Captodative Radicals Enable the Coexistence of Monomer and Dimer Single-molecule Junctions with 100-fold Difference in Conductance, <b>J. Am. Chem. Soc.</b> 2026, in press'
