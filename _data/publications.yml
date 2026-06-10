@@ -8,8 +8,8 @@
 Acid-catalyzed rearrangement reaction for single-molecule junction formation, <b>Chem. Eur. J.</b> 2026, in press'
   number: 32
   image: '/static/img/publications/2026-Zhang-ChemEurJ-TOC.png'
-    pdf: '/static/pdf/2026-Zhang-ChemEurJ.pdf'
-    si: '/static/pdf/2026-Zhang-ChemEurJ-SI.pdf'
+  pdf: '/static/pdf/2026-Zhang-ChemEurJ.pdf'
+  si: '/static/pdf/2026-Zhang-ChemEurJ-SI.pdf'
   chemrxiv: chemrxiv.15002777/v1
   links:
     - name: "Link"
@@ -19,7 +19,12 @@ Acid-catalyzed rearrangement reaction for single-molecule junction formation, <b
 Captodative Radicals Enable the Coexistence of Monomer and Dimer Single-molecule Junctions with 100-fold Difference in Conductance, <b>J. Am. Chem. Soc.</b> 2026, in press'
   number: 31
   image: '/static/img/publications/2026-Guo-JACS-TOC.png'
+  pdf: '/static/pdf/2026-Guo-JACS.pdf'
+  si: '/static/pdf/2026-Guo-JACS-SI.pdf'
   chemrxiv: chemrxiv-2026-06tvq
+  links:
+    - name: "Link"
+      url: 'https://pubs.acs.org/doi/10.1021/jacs.6c01727'
 
 - citation: 'Y. Xiao†, C. Xie†, Y.-Q. Kong, G.-P. Zhang<sup>*</sup>, X. Tan<sup>*</sup>, H. Li<sup>*</sup>,
 Imine Linkers Enable the Formation of Robust Single-Molecule Junctions, <b>Chem. Commun.</b> 2026, 62, 8235 - 8239'
