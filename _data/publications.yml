@@ -16,7 +16,7 @@ Acid-catalyzed rearrangement reaction for single-molecule junction formation, <b
       url: 'http://doi.org/10.1002/chem.71233'
 
 - citation: 'W. Guo†, S. Yao†, X. Xu, T. Lu, C. Xie, Y. Zhang, J. Wang, H. Chen, X. Tan, Y. Shen<sup>*</sup>, H. Li<sup>*</sup>,
-Captodative Radicals Enable the Coexistence of Monomer and Dimer Single-molecule Junctions with 100-fold Difference in Conductance, <b>J. Am. Chem. Soc.</b> 2026, in press'
+Captodative Radicals Enable the Coexistence of Monomer and Dimer Single-molecule Junctions with 100-fold Difference in Conductance, <b>J. Am. Chem. Soc.</b> 2026, 148, 24, 24768–24775'
   number: 31
   image: '/static/img/publications/2026-Guo-JACS-TOC.png'
   pdf: '/static/pdf/2026-Guo-JACS.pdf'
@@ -25,6 +25,8 @@ Captodative Radicals Enable the Coexistence of Monomer and Dimer Single-molecule
   links:
     - name: "Link"
       url: 'https://pubs.acs.org/doi/10.1021/jacs.6c01727'
+    - name: "Featured in rational science"
+      url: 'https://mp.weixin.qq.com/s/eXhKvOoax2TDxWeYBzZ8tw'
 
 - citation: 'Y. Xiao†, C. Xie†, Y.-Q. Kong, G.-P. Zhang<sup>*</sup>, X. Tan<sup>*</sup>, H. Li<sup>*</sup>,
 Imine Linkers Enable the Formation of Robust Single-Molecule Junctions, <b>Chem. Commun.</b> 2026, 62, 8235 - 8239'

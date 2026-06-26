@@ -19,7 +19,7 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 <p align="center"><code style="color : lightblue"> 2026 </code></p>
 
 *<code style="color : lightblue">June 2026.</code>*
-Congratulations to Yidong for winning the best poster Jury Award at the Celebration of Physics annual symposium.
+Congratulations to Yidong for winning the best poster Jury Award at the Celebration of Physics annual symposium. Yihao, Song, and Weiyi also presented posters.
 <p align="center">
     <img height="300px" src="static/img/news/2026.05poster.jpg" alt="2026 poster">
 </p>
