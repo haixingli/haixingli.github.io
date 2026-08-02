@@ -19,9 +19,9 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 <p align="center"><code style="color : lightblue"> 2026 </code></p>
 
 *<code style="color : lightblue">July 2026.</code>*
-The artwork made by our own lab member - talented Yihao - is featured on the cover.
+The artwork made by our own lab member, very talented Yihao, is featured on the cover.
 <p align="center">
-    <img height="400px" src="static/img/news/2026.ChemAEuropeanJCover.jpg" alt="2026 cover">
+    <img height="600px" src="static/img/news/2026.ChemAEuropeanJCover.jpg" alt="2026 cover">
 </p>
 
 *<code style="color : lightblue">June 2026.</code>*
