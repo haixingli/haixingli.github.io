@@ -1,6 +1,6 @@
 ---
 name: Saiya Zhang
-image: /static/img/members/Saiya.jpg
+image: /static/img/members/Saiya.jpeg
 position: Undergraduate final year project
 order: 4
 email: saiyzhang4-c@my.cityu.edu.hk
