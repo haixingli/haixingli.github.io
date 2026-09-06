@@ -18,6 +18,9 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 
 <p align="center"><code style="color : lightblue"> 2026 </code></p>
 
+*<code style="color : lightblue">August 2026.</code>*
+Weiyi successfully defended his PhD thesis.
+
 *<code style="color : lightblue">July 2026.</code>*
 The artwork made by our own lab member, very talented Yihao, is featured on the cover.
 <p align="center">

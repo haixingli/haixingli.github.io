@@ -2,11 +2,13 @@
 name: Weiyi Guo
 image: /static/img/members/Weiyi_2025.jpg
 position: Ph.D. Student
+status: alum
 order: 2
-email: weiyiguo2-c@my.cityu.edu.hk
+email: 2417253619@qq.com
 scholar: gbFL-O4AAAAJ
 orcid: 0000-0001-6350-8950
 startdate: 2022-09-01
+enddate: 2026-09-03
 ---
 Weiyi Guo holds a MSc degree in Chemical Engineering from Columbia University. He previously earned his
   BSc degree in Applied Chemistry from Nankai University. As part of the Li Lab, his research interests focus on the
