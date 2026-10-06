@@ -1,7 +1,7 @@
 ---
 name: Meiqi Gao
 image: /static/img/members/Meiqi.JPG
-position: Undergraduate through research attachment scheme
+position: Undergraduate researcher through research attachment scheme
 order: 4
 email: meiqigao3-c@my.cityu.edu.hk
 startdate: 2026-10-01
