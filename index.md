@@ -16,12 +16,24 @@ The Li Laboratory examines molecules and develops measurement tools at the singl
 <p align="center"> NEWS </p>
 ---
 
-<p align="center"><code style="color : lightblue"> 2026 </code></p>
+<p align="center"><code style="color : FireBrick"> 2026 </code></p>
 
-*<code style="color : lightblue">August 2026.</code>*
+*<code style="color : FireBrick">September 2026.</code>*
+Yihao and Yidong both received the 2026 Outstanding Academic Performance Award from the School of Graduate Studies.
+
+*<code style="color : FireBrick">September 2026.</code>*
+Yihao received the 2026 Research Tuition Scholarship from the School of Graduate Studies.
+
+*<code style="color : FireBrick">September 2026.</code>*
+The lab celebrate Yidong's passing of qualifying exam and advancing to Ph.D. candidacy.
+
+*<code style="color : FireBrick">September 2026.</code>*
+The lab welcomes undergraduates Saiya Zhang, Meiqi Gao, Tianyu Chen, and Houlin Chen to the group.
+
+*<code style="color : FireBrick">August 2026.</code>*
 Weiyi successfully defended his PhD thesis.
 
-*<code style="color : lightblue">July 2026.</code>*
+*<code style="color : FireBrick">July 2026.</code>*
 The artwork made by our own lab member, very talented Yihao, is featured on the cover.
 <p align="center">
     <img height="600px" src="static/img/news/2026.ChemAEuropeanJCover.jpg" alt="2026 cover">
@@ -68,10 +80,10 @@ The lab celebrates Yihao's and Yaran's passing of their qualifying exams.
 Yidong starts his PhD. The lab welcomes new master students Zujun Li, Abdul Mateen Hassan, and Jiakun Song. The lab welcomes a new undergraduate student Audric Martin Tjen.
 
 *<code style="color : lightblue">August 2025.</code>*
-Weiyi and Yaran both won the Research Tuition Scholarship from the School of Graduate Studies!
+Weiyi and Yaran both won the 2025 Research Tuition Scholarship from the School of Graduate Studies!
 
 *<code style="color : lightblue">August 2025.</code>*
-Weiyi and Yaran both won the Outstanding Academic Performance Award from the School of Graduate Studies, in recognition of their outstanding academic performance in their research studies in the last twelve months. Very well deserved!
+Weiyi and Yaran both won the 2025 Outstanding Academic Performance Award from the School of Graduate Studies, in recognition of their outstanding academic performance in their research studies in the last twelve months. Very well deserved!
 
 *<code style="color : lightblue">August 2025.</code>*
 Haixing receives the National Natural Science Foundation of China Young Scientist Fund Scheme C.
