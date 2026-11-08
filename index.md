@@ -68,7 +68,7 @@ The lab went hiking in Tai Po Kau Nature Reserve.
 </p>
 
 
-<p align="center"><code style="color : lightblue"> 2025 </code></p>
+<p align="center"><code style="color : FireBrick"> 2025 </code></p>
 
 *<code style="color : FireBrick">October 2025.</code>*
 Xueling's first first-author paper on Distinguishing Quantum Interference in Meta-connected Molecular Systems in collaboration with Moses Adeyemo from [Zhenfei Liu's group](https://liugroupwsu.weebly.com/) and Lulu Xiong from [Jianlong Xia's group](https://www.jianlongxia.cn/) is now published in Physical Review B.
@@ -105,7 +105,7 @@ The lab welcomes a new undergraduate student Ho tak To.
 Yaran's work on protonation-independent charge transport across diphenylamine single-molecule junctions is now published in The Journal of Physical Chemistry Letters!
 
 ---
-<p align="center"><code style="color : lightblue"> 2024 </code></p>
+<p align="center"><code style="color : FireBrick"> 2024 </code></p>
 
 *<code style="color : FireBrick">November 2024.</code>*
 The lab welcomes a new research assistant Yidong Xiao.
@@ -168,7 +168,7 @@ Weiyi's first first-author paper on robust binding between secondary amines and 
 </p>
 
 ---
-<p align="center"><code style="color : lightblue"> 2023 </code></p>
+<p align="center"><code style="color : FireBrick"> 2023 </code></p>
 
 *<code style="color : FireBrick">September 2023.</code>*
 The lab celebrates Jianming's and Weiyi's passing of their qualifying exams and advancing to Ph.D. candidacy.
@@ -200,7 +200,7 @@ The Lu Group from Chemistry Department and the Li group receive a strategic inte
 Haixing receives a teaching start-up grant from CityU.
 
 ---
-<p align="center"><code style="color : lightblue"> 2022 </code></p>
+<p align="center"><code style="color : FireBrick"> 2022 </code></p>
 
 
 *<code style="color : FireBrick">November 2022.</code>*
@@ -221,3 +221,8 @@ The lab welcomes a new graduate student Jianming An.
 
 *<code style="color : FireBrick">June 2022.</code>*
 Haixing receives the Early Career Scheme grant from the Research Grants Council of Hong Kong.
+
+<p align="center"><code style="color : FireBrick"> 2021 </code></p>
+
+*<code style="color : FireBrick">December 2021.</code>*
+The Li lab started in City University of Hong Kong.
